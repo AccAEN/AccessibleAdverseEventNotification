@@ -7,8 +7,11 @@ The DAEN website doesn't provide information in a format that might be useful fo
 
 Figure 1 [DAEN cases.png](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. 
 
-
+![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
+
+
+
 
 
 
