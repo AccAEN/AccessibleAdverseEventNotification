@@ -8,18 +8,29 @@ The DAEN website doesn't provide information in a format that might be useful fo
 Please be aware that the numbers reported in DEAN are probably significantly less than the actual number of adverse events and deaths. [As the website states](https://www.tga.gov.au/about-daen-medicines):
 > Adverse event reports from consumers and health professionals to the TGA are voluntary, so there is under-reporting by these groups of adverse events related to therapeutic goods in Australia. This is the same around the world.
 
-Figure 1 [DAEN cases.png](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. 
+[Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. 
 
 ![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
 
-Figure 2 [DAEN histogram myocarditis age.png](graphs/DAEN%20histogram%20myocarditis%20age.png) shows a histogram of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. Please note that the age group 10-19 is somewhat distorted as the age 10-11 should not receive the vaccine (although there are cases of 8 year olds getting the vaccine when that should not have occurred). This age group also has a significantly lower uptake than other age groups.
+[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows a histogram of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. Please note that the age group 10-19 is somewhat distorted as the age 10-11 should not receive the vaccine (although there are cases of 8 year olds getting the vaccine when that should not have occurred). This age group also has a significantly lower uptake than other age groups.
 
 ![Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png)
 Figure 2.
 
+Figures 3 and 4 plot the reports of myocarditis by age grouped by sex or manufacturer respectively. Figures 5 and 6 are the same for pericarditis. A '-' is used where an age was not given in the report.
 
+![Figure 3](graphs/DAEN%20myocarditis%20cases%20age.png)
+Figure 3.
 
+![Figure 4](graphs/DAEN%20myocarditis%20cases%20manufacturer.png)
+Figure 4.
+
+![Figure 5](graphs/DAEN%20pericarditis%20cases%20age.png)
+Figure 3.
+
+![Figure 6](graphs/DAEN%20pericarditis%20cases%20manufacturer.png)
+Figure 6.
 
 
 
