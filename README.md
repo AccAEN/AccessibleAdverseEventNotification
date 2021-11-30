@@ -27,11 +27,15 @@ Figure 3.
 Figure 4.
 
 ![Figure 5](graphs/DAEN%20pericarditis%20cases%20age.png)
-Figure 3.
+Figure 5.
 
 ![Figure 6](graphs/DAEN%20pericarditis%20cases%20manufacturer.png)
 Figure 6.
 
+The scraped data is found in the data directory. These files are tab separated files which you can easily import in to a spreadsheet program. All of the files are only for COVID-19 vaccines.
+- [DAEN_webscrape_simple.txt](data/DAEN_webscrape_simple.txt) This file shows the date (twice for reasons that made sense at the time, but don't necessarily make sense anymore), the number of cases reported that day, the number of cases with a single suspected medicine for that day, and the number of deaths reported that day.
+- [DAEN_webscrape_medsummary.txt](data/DAEN_webscrape_medsummary.txt) This file gives a daily count of each adverse event category. Please note that if one patient had multiple adverse events, then each event would be counted in the appropriate category.
+- [DAEN_webscrape_listofreports.txt](data/DAEN_webscrape_listofreports.txt) This file provides the individual reports and includes sex and age (when recorded).
 
 
 
