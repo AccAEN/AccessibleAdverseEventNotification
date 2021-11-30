@@ -13,7 +13,7 @@ Please be aware that the numbers reported in DAEN are probably significantly les
 ![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
 
-[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows a histogram of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. Please note that the age group 10-19 is somewhat distorted as the age 10-11 should not receive the vaccine (although there are cases of 8 year olds getting the vaccine when that should not have occurred). This age group also has a significantly lower uptake than other age groups.
+[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows a histogram of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. Please note that the age group 10-19 is somewhat distorted as the age 10-11 should not receive the vaccine (although there are cases of [8 year olds getting the vaccine](graphs/DAEN%20young%20vaccinated.png) when that should not have occurred). This age group also has a significantly lower uptake than other age groups.
 
 ![Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png)
 Figure 2.
