@@ -40,4 +40,5 @@ Figure 6.
 Figure 7 shows how the histogram for myocarditis has progressed over time. 
 
 ![Figure 7](graphs/DAEN_histogram_myocarditis_age.gif)
+
 Figure 7.
