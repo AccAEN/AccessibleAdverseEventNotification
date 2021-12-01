@@ -41,3 +41,9 @@ Figure 7 shows how the histogram for myocarditis has progressed over time.
 
 ![Figure 7](graphs/DAEN_histogram_myocarditis_age.gif)  
 Figure 7.
+
+Figure 8 shows the death rate of people in Australia who contracted COVID-19. Data taken from [health.gov](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics#cases-and-deaths-by-age-and-sex) on 1/12/2021.
+
+![Figure 8](graphs/Death rate.png)  
+Figure 8.
+
