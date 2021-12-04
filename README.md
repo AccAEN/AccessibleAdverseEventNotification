@@ -13,7 +13,7 @@ The scraped data is found in the data directory. These files are tab separated f
 - [DAEN_webscrape_medsummary.txt](data/DAEN_webscrape_medsummary.txt) This file gives a daily count of each adverse event category. Please note that if one patient had multiple adverse events, then each event would be counted in the appropriate category.
 - [DAEN_webscrape_listofreports.txt](data/DAEN_webscrape_listofreports.txt) This file provides the individual reports and includes sex and age (when recorded).
 
-[Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. 
+[Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. The most common MedDRA reaction terms in the Cardiac disorders classification are also listed.
 
 ![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
@@ -42,9 +42,9 @@ Figure 7 shows how the histogram for myocarditis has progressed over time.
 ![Figure 7](graphs/DAEN_histogram_myocarditis_age.gif)  
 Figure 7.
 
-Figure 8 shows the death rate of people in Australia who contracted COVID-19. Data taken from [health.gov](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics#cases-and-deaths-by-age-and-sex) on 1/12/2021. Bottom graph is zoomed in to 1% to see what is happening with those under the age of 60.
+Figure 8 shows the death rate of people in Australia who contracted COVID-19. Data taken from [health.gov](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics#cases-and-deaths-by-age-and-sex) on 1/12/2021. Bottom graph has a logarithmic y-acis to see what is happening with those under the age of 60.
 
-![Figure 8](graphs/Death%20rate.png)  
+![Figure 8](graphs/Case%20fatality%20rate%20with%20COVID-19.png)  
 Figure 8.
 
 It might be useful to work out how many years of life Australians have lost due to COVID-19 and the COVID-19 vaccine. According to the [ABS](https://www.abs.gov.au/statistics/people/population/life-tables/latest-release) (accessed 2/12/2021), the life expectancy at birth for Australians was 81.2 and 85.3 years for males and females respectively in 2018-20. This is the life expectancy of a child born now, this a much higher life expectancy than a child born in the 1930's. The people most likely to die have existing health issues and would have a shorter life expectancy than the ABS figures above, but for simplicity the ABS values will be used. The mean age of any 10 year group is going to be higher than the average of the limits of the group, for simplicity the assumption is that the average age is 7 higher than the minimum for that group. From table 1 below, the human-years lost in Australia of people who had COVID-19 is 6,894 in males and 4,860 in females, and 11,754 in total.
