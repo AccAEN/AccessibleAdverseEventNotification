@@ -65,7 +65,7 @@ This does not account for the issue of under-reporting. This number is quite dif
 ![Figure 10](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph.png)
 Figure 10.
 
-Figure 11 shows the results from DAEN searches using the term 'vaccine' to look at all adverse event and death records for each year from 2000 to 2021 (although 2021 only included 1/1/2021 to 22/11/2021 at the time this graph was generated).
+Figure 11 shows the results from DAEN searches using the term 'vaccine' to look at all adverse event and death records for each year from 2000 to 2021 (although 2021 only included 1/1/2021 to 22/11/2021 at the time this graph was generated). Please note, this is not normalised for the number of vaccines administered (which would probably be a more useful comparison).
 
 ![Figure 11](graphs/DAEN%202000-2021.png)
 Figure 11.
