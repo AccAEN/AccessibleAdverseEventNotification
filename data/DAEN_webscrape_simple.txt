@@ -274,3 +274,4 @@ StartYear	StartMonth	StartDay	EndYear	EndMonth	EndDay	Number of reports (cases)	
 2021	11	21	2021	11	21	95	90	0
 2021	11	22	2021	11	22	202	195	0
 2021	11	23	2021	11	23	381	376	3
+2021	11	24	2021	11	24	222	216	1
