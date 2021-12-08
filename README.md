@@ -65,7 +65,7 @@ This does not account for the issue of under-reporting. This number is quite dif
 ![Figure 10](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph%2001.png)
 Figure 10.
 
-Figure 11 uses an estimated based on research from Israel which had a heavily vaccinated population early. They suggested that [between one in 3000 and one in 6000 men ages 16 to 24](https://www.science.org/content/article/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination). So using the ratio of 1 in 4,500 the DAEN myocarditis data can be scaled up by 1.59 to get 1 in 4,500 for 16-24 year olds.
+Figure 11 uses an estimated based on research from Israel which had a heavily vaccinated population early. They suggested that [between one in 3000 and one in 6000 men ages 16 to 24](https://www.science.org/content/article/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination). So the DAEN myocarditis data can be scaled up by 1.59 to get 1 in 4,500 for 16-24 year olds.
 
 ![Figure 11](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph%2002.png)
 Figure 11.
