@@ -26,7 +26,7 @@ Figure 2.
 ![Figure 3](graphs/DAEN_histogram_myocarditis_age.gif)  
 Figure 3.
 
-Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 22/11/2021 and the vaccination numbers released by the Australian Government for 21/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available.
+Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 22/11/2021 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 21/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available.
 
 ![Figure 4](graphs/DAEN%20myocarditis%20per%20100000.png)
 Figure 4.
@@ -62,10 +62,15 @@ When this calculation was done (DAEN records to 18/11/2021) there were nine reco
 
 This does not account for the issue of under-reporting. This number is quite difficult to estimate, and will probably be heavily related to prior assumptions of the people that might submit a record. It is possible that under-reporting could be as low as [1 in 200](https://www.bmj.com/rapid-response/2011/11/02/underreporting-vaccine-adverse-events) <if you are aware of better references, please make a note in the discussion section>. For now, assume the under-reporting is 1 in 10. If these assumptions are correct then Australia has lost 158,000 human-years for a disease that has been blamed for the loss of 12,000 human-years. This calculation does not even include the 668 deaths attributed to the COVID-19 vaccine because the age and sex of the deaths suspected to be from the vaccine is not available on the publicly accessible part of DAEN. Also note that the DAEN information (COVID-19 vaccine adverse events) is 2 weeks older than the COVID-19 deaths.
 
-![Figure 10](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph.png)
+![Figure 10](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph%2001.png)
 Figure 10.
 
-Figure 11 shows the results from DAEN searches using the term 'vaccine' to look at all adverse event and death records for each year from 2000 to 2021 (although 2021 only included 1/1/2021 to 22/11/2021 at the time this graph was generated). Please note, this is not normalised for the number of vaccines administered (which would probably be a more useful comparison).
+Figure 11 uses an estimated based on research from Israel which had a heavily vaccinated population early. They suggested that [between one in 3000 and one in 6000 men ages 16 to 24](https://www.science.org/content/article/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination). So using the ratio of 1 in 4,500 the DAEN myocarditis data can be scaled up by 1.59 to get 1 in 4,500 for 16-24 year olds.
 
-![Figure 11](graphs/DAEN%202000-2021.png)
+![Figure 11](graphs/Years%20lost%20to%20COVID-19%20vaccine%20-%20graph%2002.png)
 Figure 11.
+
+Figure 12 shows the results from DAEN searches using the term 'vaccine' to look at all adverse event and death records for each year from 2000 to 2021 (although 2021 only included 1/1/2021 to 22/11/2021 at the time this graph was generated). Please note, this is not normalised for the number of vaccines administered (which would probably be a more useful comparison).
+
+![Figure 12](graphs/DAEN%202000-2021.png)
+Figure 12.
