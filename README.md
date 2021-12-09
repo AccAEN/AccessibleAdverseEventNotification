@@ -1,6 +1,8 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
+**NOTE - I have recently discovered that the most recent numbers scraped can change significantly. It looks like the data set I uploaded for today (9/12/2021) are missing 3.6% of cases and 0.3% of deaths. It seems like there are such a huge number of adverse events that they can't all be processed in the two weeks before release to the public. **
+
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
 
 The DAEN website doesn't provide information in a format that might be useful for analysis. Instead you have to scrape the information by entering each individual day and collecting the results from two tables which might span multiple pages. I've already done that and the code is [here](code/DAEN_scrape.py) (this code isn't great, but it is good enough to get the job done).
