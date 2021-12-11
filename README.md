@@ -1,7 +1,7 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
-**NOTE - I have recently discovered that the most recent numbers scraped can change significantly. It looks like the data set I uploaded for today (9/12/2021) is missing 3.6% of cases and 0.3% of deaths. It seems like there are such a huge number of adverse events that they can't all be processed in the two weeks before release to the public.**
+**NOTE - I have recently discovered that entries in DAEN are constantly changing. The data set was originally scraped on 19/11/2021, and then added to daily as each extra day was available. A whole lot of new adverse events have appeared dated mid-September to mid-October. There was a net decrease of 131 pericarditis and net gain of 3 myocarditis adverse events between the earlier and more recent scraping.**
 
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
 
@@ -28,7 +28,7 @@ Figure 2.
 ![Figure 3](graphs/DAEN_histogram_myocarditis_age.gif)  
 Figure 3.
 
-Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 22/11/2021 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 21/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available.
+Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 27/11/2021 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 21/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available.
 
 ![Figure 4](graphs/DAEN%20myocarditis%20per%20100000.png)
 Figure 4.
