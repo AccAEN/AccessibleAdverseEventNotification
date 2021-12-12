@@ -52485,3 +52485,88 @@
 2021	11	27	Infections and infestations	Mastoiditis	1	1	0
 2021	11	27	Nervous system disorders	Neurological symptom	1	1	0
 2021	11	27	Vascular disorders	Deep vein thrombosis	1	1	1
+2021	11	28	General disorders and administration site conditions	Chest pain	9	9	0
+2021	11	28	Cardiac disorders	Palpitations	9	9	0
+2021	11	28	General disorders and administration site conditions	Fatigue	9	9	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Dyspnoea	8	8	0
+2021	11	28	Gastrointestinal disorders	Nausea	8	7	0
+2021	11	28	Nervous system disorders	Dizziness	7	7	0
+2021	11	28	Nervous system disorders	Headache	7	7	0
+2021	11	28	General disorders and administration site conditions	Pyrexia	7	7	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Myalgia	6	6	0
+2021	11	28	General disorders and administration site conditions	Chest discomfort	4	4	0
+2021	11	28	General disorders and administration site conditions	Influenza like illness	4	4	0
+2021	11	28	Reproductive system and breast disorders	Menstrual disorder	4	4	0
+2021	11	28	Gastrointestinal disorders	Diarrhoea	3	3	0
+2021	11	28	Gastrointestinal disorders	Vomiting	3	3	0
+2021	11	28	General disorders and administration site conditions	Concomitant disease aggravated	3	3	0
+2021	11	28	Nervous system disorders	Hypoaesthesia	3	3	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Arthralgia	3	3	0
+2021	11	28	Cardiac disorders	Pericarditis	3	3	0
+2021	11	28	Metabolism and nutrition disorders	Decreased appetite	3	3	0
+2021	11	28	General disorders and administration site conditions	Asthenia	2	2	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Bone pain	2	2	0
+2021	11	28	Reproductive system and breast disorders	Menstruation irregular	2	2	0
+2021	11	28	Eye disorders	Vision blurred	2	1	0
+2021	11	28	Ear and labyrinth disorders	Tinnitus	2	2	0
+2021	11	28	General disorders and administration site conditions	Injection site reaction	2	2	0
+2021	11	28	Infections and infestations	Herpes zoster	2	2	0
+2021	11	28	Reproductive system and breast disorders	Heavy menstrual bleeding	2	2	0
+2021	11	28	Blood and lymphatic system disorders	Lymphadenopathy	2	2	0
+2021	11	28	Skin and subcutaneous tissue disorders	Hyperhidrosis	2	2	0
+2021	11	28	General disorders and administration site conditions	Chills	2	2	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Joint swelling	2	2	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Musculoskeletal stiffness	2	2	0
+2021	11	28	Nervous system disorders	Dysgeusia	2	2	0
+2021	11	28	Nervous system disorders	Lethargy	2	2	0
+2021	11	28	Skin and subcutaneous tissue disorders	Rash	2	2	0
+2021	11	28	General disorders and administration site conditions	Peripheral swelling	2	2	0
+2021	11	28	Gastrointestinal disorders	Dysphagia	1	1	0
+2021	11	28	Immune system disorders	Immunosuppression	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Limb mass	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Muscle twitching	1	1	0
+2021	11	28	Cardiac disorders	Myocarditis	1	1	0
+2021	11	28	Nervous system disorders	Cerebrovascular accident	1	1	1
+2021	11	28	Nervous system disorders	Paraesthesia	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Oropharyngeal pain	1	1	0
+2021	11	28	Cardiac disorders	Cardiac failure	1	1	0
+2021	11	28	Cardiac disorders	Tachycardia	1	1	0
+2021	11	28	Gastrointestinal disorders	Abdominal pain	1	1	0
+2021	11	28	Nervous system disorders	Taste disorder	1	1	0
+2021	11	28	Reproductive system and breast disorders	Dysmenorrhoea	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Sinus pain	1	1	0
+2021	11	28	Cardiac disorders	Sinus tachycardia	1	1	0
+2021	11	28	Gastrointestinal disorders	Paraesthesia oral	1	0	0
+2021	11	28	General disorders and administration site conditions	Feeling abnormal	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Pain in extremity	1	1	0
+2021	11	28	Nervous system disorders	Tremor	1	1	0
+2021	11	28	Injury, poisoning and procedural complications	Maternal exposure during breast feeding	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Back pain	1	1	0
+2021	11	28	Nervous system disorders	Bell's palsy	1	1	0
+2021	11	28	Nervous system disorders	Loss of consciousness	1	1	0
+2021	11	28	Investigations	Fibrin D dimer increased	1	1	0
+2021	11	28	Psychiatric disorders	Confusional state	1	1	0
+2021	11	28	Skin and subcutaneous tissue disorders	Angioedema	1	1	0
+2021	11	28	Reproductive system and breast disorders	Suppressed lactation	1	1	0
+2021	11	28	Social circumstances	Loss of personal independence in daily activities	1	1	0
+2021	11	28	General disorders and administration site conditions	Hangover	1	1	0
+2021	11	28	Nervous system disorders	Somnolence	1	1	0
+2021	11	28	Reproductive system and breast disorders	Testicular swelling	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Pulmonary embolism	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Pulmonary infarction	1	1	0
+2021	11	28	Immune system disorders	Anaphylactic reaction	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Synovitis	1	1	0
+2021	11	28	Nervous system disorders	Balance disorder	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Cough	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Pharyngeal swelling	1	1	0
+2021	11	28	Respiratory, thoracic and mediastinal disorders	Throat tightness	1	1	0
+2021	11	28	Cardiac disorders	Atrial fibrillation	1	1	0
+2021	11	28	Gastrointestinal disorders	Gastrooesophageal reflux disease	1	1	0
+2021	11	28	Injury, poisoning and procedural complications	Contusion	1	1	0
+2021	11	28	Nervous system disorders	Neuralgia	1	1	0
+2021	11	28	Skin and subcutaneous tissue disorders	Alopecia areata	1	1	0
+2021	11	28	General disorders and administration site conditions	Swelling face	1	1	0
+2021	11	28	Musculoskeletal and connective tissue disorders	Neck pain	1	1	0
+2021	11	28	Vascular disorders	Hypertension	1	1	0
+2021	11	28	General disorders and administration site conditions	Malaise	1	1	0
+2021	11	28	Skin and subcutaneous tissue disorders	Swelling face	1	1	0
