@@ -20,12 +20,12 @@ The scraped data is found in the data directory. These files are tab separated f
 ![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
 
-[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows a histogram of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. Please note that the age group 10-19 is somewhat distorted as the age 10-11 should not receive the vaccine (although there are cases of [8 year olds getting the vaccine](graphs/DAEN%20young%20vaccinated.png) when that should not have occurred). This age group also has a significantly lower uptake than other age groups. Figure 3 shows how the histogram for myocarditis has progressed over time.
+[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows histograms of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. The younger age groups have a significantly lower and delayed uptake compared with other age groups. Figure 3 shows how the histograms have progressed over time. The age groupings have been changed to reflect age groupings from [vaccine rollout data](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update).
 
 ![Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png)
 Figure 2.
 
-![Figure 3](graphs/DAEN_histogram_myocarditis_age.gif)  
+![Figure 3](graphs/DAEN_histogram_xcarditis_age.gif)  
 Figure 3.
 
 Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 27/11/2021 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 21/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available.
