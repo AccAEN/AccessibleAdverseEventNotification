@@ -58277,3 +58277,150 @@
 2021	12	31	Injury, poisoning and procedural complications	Product administered to patient of inappropriate age	1	1	0
 2021	12	31	Nervous system disorders	Sensory loss	1	1	0
 2021	12	31	Nervous system disorders	Somnolence	1	1	0
+2022	1	1	General disorders and administration site conditions	Fatigue	11	11	0
+2022	1	1	Musculoskeletal and connective tissue disorders	Myalgia	9	9	0
+2022	1	1	Gastrointestinal disorders	Nausea	9	9	0
+2022	1	1	General disorders and administration site conditions	Pyrexia	8	8	0
+2022	1	1	Blood and lymphatic system disorders	Lymphadenopathy	7	7	0
+2022	1	1	Nervous system disorders	Dizziness	7	7	0
+2022	1	1	Respiratory, thoracic and mediastinal disorders	Dyspnoea	7	7	0
+2022	1	1	Musculoskeletal and connective tissue disorders	Arthralgia	7	7	0
+2022	1	1	Nervous system disorders	Headache	7	7	0
+2022	1	1	Musculoskeletal and connective tissue disorders	Pain in extremity	6	6	0
+2022	1	1	General disorders and administration site conditions	Pain	5	5	0
+2022	1	1	Cardiac disorders	Palpitations	3	3	0
+2022	1	1	General disorders and administration site conditions	Influenza like illness	3	3	0
+2022	1	1	Reproductive system and breast disorders	Menstruation irregular	3	3	0
+2022	1	1	General disorders and administration site conditions	Concomitant disease aggravated	3	3	0
+2022	1	1	Nervous system disorders	Hypoaesthesia	3	3	0
+2022	1	1	Reproductive system and breast disorders	Menstrual disorder	3	3	0
+2022	1	1	General disorders and administration site conditions	Chest pain	3	3	0
+2022	1	1	General disorders and administration site conditions	Injection site pain	3	3	0
+2022	1	1	Gastrointestinal disorders	Abdominal pain upper	2	2	0
+2022	1	1	Metabolism and nutrition disorders	Decreased appetite	2	2	0
+2022	1	1	Reproductive system and breast disorders	Breast pain	2	2	0
+2022	1	1	Respiratory, thoracic and mediastinal disorders	Oropharyngeal pain	2	2	0
+2022	1	1	Skin and subcutaneous tissue disorders	Urticaria	2	2	0
+2022	1	1	Nervous system disorders	Migraine	2	2	0
+2022	1	1	Psychiatric disorders	Confusional state	2	2	0
+2022	1	1	Gastrointestinal disorders	Diarrhoea	2	2	0
+2022	1	1	General disorders and administration site conditions	Injection site reaction	2	2	0
+2022	1	1	General disorders and administration site conditions	Chest discomfort	2	2	0
+2022	1	1	General disorders and administration site conditions	Malaise	2	2	0
+2022	1	1	Reproductive system and breast disorders	Menstruation delayed	2	2	0
+2022	1	1	Vascular disorders	Hot flush	2	2	0
+2022	1	1	Musculoskeletal and connective tissue disorders	Muscle spasms	2	2	0
+2022	1	1	Eye disorders	Vision blurred	2	2	0
+2022	1	1	Cardiac disorders	Left ventricular dysfunction	1	1	0
+2022	1	1	Eye disorders	Photophobia	1	1	0
+2022	1	1	General disorders and administration site conditions	Gait disturbance	1	1	0
+2022	1	1	Nervous system disorders	Paraesthesia	1	1	0
+2022	1	1	Renal and urinary disorders	Haematuria	1	1	0
+2022	1	1	Cardiac disorders	Bundle branch block	1	1	0
+2022	1	1	Cardiac disorders	Tachycardia	1	1	0
+2022	1	1	Gastrointestinal disorders	Abdominal pain	1	1	0
+2022	1	1	Infections and infestations	Nasopharyngitis	1	1	0
+2022	1	1	Nervous system disorders	Burning sensation	1	1	0
+2022	1	1	Nervous system disorders	Taste disorder	1	1	0
+2022	1	1	Reproductive system and breast disorders	Amenorrhoea	1	1	0
+2022	1	1	Musculoskeletal and connective tissue disorders	Muscular weakness	1	1	0
+2022	1	1	Cardiac disorders	Ventricular arrhythmia	1	1	0
+2022	1	1	Infections and infestations	Subcutaneous abscess	1	1	0
+2022	1	1	Nervous system disorders	Lethargy	1	1	0
+2022	1	1	Vascular disorders	Deep vein thrombosis	1	1	0
+2022	1	1	Investigations	Bone density decreased	1	1	0
+2022	1	1	Investigations	SARS-CoV-2 test positive	1	1	0
+2022	1	1	Skin and subcutaneous tissue disorders	Rash maculo-papular	1	1	0
+2022	1	1	Ear and labyrinth disorders	Ear discomfort	1	1	0
+2022	1	1	General disorders and administration site conditions	Injection site rash	1	1	0
+2022	1	1	Investigations	Electrocardiogram	1	1	0
+2022	1	1	Skin and subcutaneous tissue disorders	Rash pruritic	1	1	0
+2022	1	1	Investigations	Heart rate irregular	1	1	0
+2022	1	1	Skin and subcutaneous tissue disorders	Night sweats	1	1	0
+2022	1	1	Immune system disorders	Anaphylactic reaction	1	1	0
+2022	1	1	Nervous system disorders	Disturbance in attention	1	1	0
+2022	1	1	Reproductive system and breast disorders	Haemorrhagic ovarian cyst	1	1	0
+2022	1	1	Reproductive system and breast disorders	Heavy menstrual bleeding	1	1	0
+2022	1	1	Reproductive system and breast disorders	Menopausal symptoms	1	1	0
+2022	1	1	Respiratory, thoracic and mediastinal disorders	Cough	1	1	0
+2022	1	1	Respiratory, thoracic and mediastinal disorders	Productive cough	1	1	0
+2022	1	1	Blood and lymphatic system disorders	Lymphadenitis	1	1	0
+2022	1	1	General disorders and administration site conditions	Chills	1	1	0
+2022	1	1	Injury, poisoning and procedural complications	Contusion	1	1	0
+2022	1	1	Nervous system disorders	Thunderclap headache	1	1	0
+2022	1	1	Psychiatric disorders	Anxiety	1	1	0
+2022	1	1	Cardiac disorders	Cardiac flutter	1	1	0
+2022	1	1	General disorders and administration site conditions	Axillary pain	1	1	0
+2022	1	1	Infections and infestations	Post-acute COVID-19 syndrome	1	1	0
+2022	1	1	Cardiac disorders	Arrhythmia supraventricular	1	1	0
+2022	1	1	Ear and labyrinth disorders	Ear pain	1	1	0
+2022	1	1	Nervous system disorders	Cerebrovascular accident	1	1	0
+2022	1	1	Nervous system disorders	Presyncope	1	1	0
+2022	1	1	Vascular disorders	Hypertension	1	1	0
+2022	1	2	General disorders and administration site conditions	Fatigue	9	9	0
+2022	1	2	General disorders and administration site conditions	Chest pain	8	8	0
+2022	1	2	Nervous system disorders	Dizziness	8	8	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Myalgia	7	7	0
+2022	1	2	Nervous system disorders	Headache	7	7	0
+2022	1	2	General disorders and administration site conditions	Pyrexia	6	6	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Pain in extremity	6	6	0
+2022	1	2	Gastrointestinal disorders	Nausea	6	6	0
+2022	1	2	Respiratory, thoracic and mediastinal disorders	Dyspnoea	6	6	0
+2022	1	2	General disorders and administration site conditions	Injection site reaction	4	4	0
+2022	1	2	Nervous system disorders	Paraesthesia	4	4	0
+2022	1	2	General disorders and administration site conditions	Malaise	3	3	0
+2022	1	2	Eye disorders	Vision blurred	3	3	0
+2022	1	2	Blood and lymphatic system disorders	Lymphadenopathy	3	3	0
+2022	1	2	Cardiac disorders	Palpitations	2	2	0
+2022	1	2	General disorders and administration site conditions	Chest discomfort	2	2	0
+2022	1	2	Nervous system disorders	Head discomfort	2	2	0
+2022	1	2	Psychiatric disorders	Insomnia	2	2	0
+2022	1	2	Cardiac disorders	Tachycardia	2	2	0
+2022	1	2	General disorders and administration site conditions	Injection site pain	2	2	0
+2022	1	2	Nervous system disorders	Restless legs syndrome	2	2	0
+2022	1	2	Cardiac disorders	Pericarditis	2	2	0
+2022	1	2	Infections and infestations	Herpes zoster	2	2	0
+2022	1	2	Investigations	Electrocardiogram	2	2	0
+2022	1	2	Gastrointestinal disorders	Diarrhoea	2	2	0
+2022	1	2	General disorders and administration site conditions	Concomitant disease aggravated	2	2	0
+2022	1	2	General disorders and administration site conditions	Chills	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Muscle spasms	1	1	0
+2022	1	2	Nervous system disorders	Disturbance in attention	1	1	0
+2022	1	2	Reproductive system and breast disorders	Heavy menstrual bleeding	1	1	0
+2022	1	2	Skin and subcutaneous tissue disorders	Hyperhidrosis	1	1	0
+2022	1	2	General disorders and administration site conditions	Axillary pain	1	1	0
+2022	1	2	Investigations	Heart rate increased	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Neck pain	1	1	0
+2022	1	2	Nervous system disorders	Presyncope	1	1	0
+2022	1	2	Vascular disorders	Hypertension	1	1	0
+2022	1	2	Gastrointestinal disorders	Abdominal pain	1	1	0
+2022	1	2	General disorders and administration site conditions	Pain	1	1	0
+2022	1	2	Nervous system disorders	Burning sensation	1	1	0
+2022	1	2	Reproductive system and breast disorders	Menstrual disorder	1	1	0
+2022	1	2	Eye disorders	Eye swelling	1	1	0
+2022	1	2	General disorders and administration site conditions	Influenza like illness	1	1	0
+2022	1	2	General disorders and administration site conditions	Peripheral swelling	1	1	0
+2022	1	2	Infections and infestations	Mastitis	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Hand deformity	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Muscular weakness	1	1	0
+2022	1	2	Nervous system disorders	Neuropathy peripheral	1	1	0
+2022	1	2	Nervous system disorders	Tremor	1	1	0
+2022	1	2	Ear and labyrinth disorders	Vertigo	1	1	0
+2022	1	2	General disorders and administration site conditions	Swelling	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Arthralgia	1	1	0
+2022	1	2	Nervous system disorders	Migraine	1	1	0
+2022	1	2	Cardiac disorders	Myocarditis	1	1	0
+2022	1	2	Nervous system disorders	Syncope	1	1	0
+2022	1	2	Investigations	Chest X-ray normal	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Musculoskeletal stiffness	1	1	0
+2022	1	2	Nervous system disorders	Lethargy	1	1	0
+2022	1	2	Psychiatric disorders	Confusional state	1	1	0
+2022	1	2	Gastrointestinal disorders	Vomiting	1	1	0
+2022	1	2	Musculoskeletal and connective tissue disorders	Back pain	1	1	0
+2022	1	2	Psychiatric disorders	Delirium	1	1	0
+2022	1	2	General disorders and administration site conditions	Nodule	1	1	0
+2022	1	2	Immune system disorders	Immune system disorder	1	1	0
+2022	1	2	Psychiatric disorders	Dissociation	1	1	0
+2022	1	2	Skin and subcutaneous tissue disorders	Night sweats	1	1	0
+2022	1	2	Skin and subcutaneous tissue disorders	Urticaria	1	1	0
+2022	1	2	Respiratory, thoracic and mediastinal disorders	Pulmonary embolism	1	1	0
