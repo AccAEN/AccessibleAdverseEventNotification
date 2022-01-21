@@ -28,7 +28,7 @@ Figure 2.
 ![Figure 3](graphs/DAEN_histogram_xcarditis_age.gif)  
 Figure 3.
 
-Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 1/12/2021 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 22/11/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available. Please note that records in DAEN for myocarditis and pericarditis that excluded sex or age information were excluded in this calculation.
+Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 7/1/2022 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 30/12/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available. Please note that records in DAEN for myocarditis and pericarditis that excluded sex or age information were not used in this calculation (16% of myocarditis and 21% of pericarditis cases excluded age or sex information).
 
 ![Figure 4](graphs/DAEN%20myocarditis%20per%20100000.png)
 Figure 4.
