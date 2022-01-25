@@ -62,7 +62,7 @@ Figure 11 attempts to estimate the number of adverse events and deaths per vacci
 
 ![Figure 11](graphs/DAEN%202000-2021%20rate%20per%20million.png)
 
-If you want to follow along (and I suggest you check my working, don't believe me, please always check everything), the DAEN data can be collected by going [here](https://apps.tga.gov.au/Prod/daen/daen-entry.aspx). For "Select medicines" type "vaccine" and tick the box "Medicines found for 'vaccine…'"
+There are some significant problems with this comparison. The group of people that received the COVID-19 vaccine is not the same as the group that recevied the other vaccines. This is lumping all adverse events in together which can range from a sore arm to a heart attack. If you want to follow along (and I suggest you check my working, don't believe me, please always check everything), the DAEN data can be collected by going [here](https://apps.tga.gov.au/Prod/daen/daen-entry.aspx). For "Select medicines" type "vaccine" and tick the box "Medicines found for 'vaccine…'"
 Then select the desired year and look at the "Number of reports (cases):" and " Number of cases where death was a reported outcome:"
 Repeat for each relevant year. For 2021 I only collected results for "COVID" in selected medicines.
 
