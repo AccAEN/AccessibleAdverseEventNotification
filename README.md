@@ -62,14 +62,16 @@ Figure 11 attempts to estimate the number of adverse events and deaths per vacci
 
 ![Figure 11](graphs/DAEN%202000-2021%20rate%20per%20million.png)
 
-If you want to follow along (and I suggest you check my working, don't believe me, please always check everything), the DAEN data can be collected by going here https://apps.tga.gov.au/Prod/daen/daen-entry.aspx
-For "Select medicines" type "vaccine" and tick the box "Medicines found for 'vaccine…'"
+If you want to follow along (and I suggest you check my working, don't believe me, please always check everything), the DAEN data can be collected by going [here](https://apps.tga.gov.au/Prod/daen/daen-entry.aspx). For "Select medicines" type "vaccine" and tick the box "Medicines found for 'vaccine…'"
 Then select the desired year and look at the "Number of reports (cases):" and " Number of cases where death was a reported outcome:"
 Repeat for each relevant year. For 2021 I only collected results for "COVID" in selected medicines.
 
 Get population information (in one of the spreadsheets) [here](https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/jun-2021)
+
 Get COVID vaccination numbers [here](https://www.health.gov.au/resources/publications/covid-19-vaccine-rollout-update-31-december-2021)
+
 Get childhood vaccination rates and number of vaccinations [here](https://www.health.gov.au/health-topics/immunisation/childhood-immunisation-coverage/current-coverage-data-tables-for-all-children)
+
 I used the estimate of influenza vaccination of 39% of the 18+ population from [here](https://www.health.gov.au/sites/default/files/report-newspoll-flu-vaccinations-survey-jun-2014.pdf)
 
 I decided to only consider the number of 'fully vaccinated' as a single vaccination instance rather than count each dose. I only looked at one, two and five year old children since that data set was easy to find. There are a lot more vaccinations that I didn't count that would make the difference even larger (i.e. even worse for the COVID-19 vaccines). I think the biggest potential error is using the estimate of influenza vaccinations for the population over 18 years of age from 2014, I am not sure how accurate that estimate is and if it is safe to assume the same for other years.
