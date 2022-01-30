@@ -48,7 +48,7 @@ Figure 7.
 Figure 8.
 
 
-Figure 9 shows the case fatality rate of people in Australia who contracted COVID-19. Data taken from [health.gov](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics#cases-and-deaths-by-age-and-sex) on 1/12/2021. Bottom graph has a logarithmic y-axis to see what is happening with those under the age of 60.
+Figure 9 shows the case fatality rate of people in Australia who contracted COVID-19. Data taken from [health.gov](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics#cases-and-deaths-by-age-and-sex) on 30/1/2022. Bottom graph has a logarithmic y-axis to see what is happening with those under the age of 60.
 
 ![Figure 9](graphs/Case%20fatality%20rate%20with%20COVID-19.png)  
 Figure 9.
