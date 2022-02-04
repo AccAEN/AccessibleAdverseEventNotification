@@ -76,4 +76,16 @@ I used the estimate of influenza vaccination of 39% of the 18+ population from [
 
 I decided to only consider the number of 'fully vaccinated' as a single vaccination instance rather than count each dose. I only looked at one, two and five year old children since that data set was easy to find. There are a lot more vaccinations that I didn't count that would make the difference even larger (i.e. even worse for the COVID-19 vaccines). I think the biggest potential error is using the estimate of influenza vaccinations for the population over 18 years of age from 2014, I am not sure how accurate that estimate is and if it is safe to assume the same for other years.
 
+Here is another way to compare the COVID-19 vaccine safety to previous vaccines:
+
+[https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm](https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm)
+
+Sources:
+
+https://www.servicesaustralia.gov.au/sites/default/files/annual-report-2019-20v2.pdf
+
+https://www.health.gov.au/sites/default/files/documents/2021/12/covid-19-vaccine-rollout-update-31-december-2021.pdf
+
+https://apps.tga.gov.au/Prod/daen/daen-entry.aspx
+
 There was a calculation here estimating and comparing years of life lost in Australia from COVID-19 deaths and COVID-19 vaccine injuries. This is being revised as I found what was potentially a significant error in the assumptions.
