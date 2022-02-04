@@ -76,9 +76,9 @@ I used the estimate of influenza vaccination of 39% of the 18+ population from [
 
 I decided to only consider the number of 'fully vaccinated' as a single vaccination instance rather than count each dose. I only looked at one, two and five year old children since that data set was easy to find. There are a lot more vaccinations that I didn't count that would make the difference even larger (i.e. even worse for the COVID-19 vaccines). I think the biggest potential error is using the estimate of influenza vaccinations for the population over 18 years of age from 2014, I am not sure how accurate that estimate is and if it is safe to assume the same for other years.
 
-Here is another way to compare the COVID-19 vaccine safety to previous vaccines:
+Here is another way to compare the COVID-19 vaccine safety to previous vaccines (webm video):
 
-https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm?raw=true
+https://htmlpreview.github.io/?https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/playwebm.html
 
 Sources:
 
