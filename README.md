@@ -78,7 +78,7 @@ I decided to only consider the number of 'fully vaccinated' as a single vaccinat
 
 Here is another way to compare the COVID-19 vaccine safety to previous vaccines:
 
-[https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm](https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm)
+https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/Compare_deaths_per_million_vaccination_episodes_4chan.webm?raw=true
 
 Sources:
 
