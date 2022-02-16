@@ -1,6 +1,8 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
+**New update. Everything was re-scraped on 15/2/2022-16/2/2022 the previous scrapings are found in data/archive_2022_02_01 along with diff comparisons with the latest scrape. The new re-scraping found 12 more deaths (was 745, now 757 dead), 22 more pericarditis cases (was 1247, now 1269), 44 fewer pericarditis cases (was 2781, now 2737) and 2040 more cardiac disorder cases (was 11085, now 13125).**
+
 **NOTE - I have recently discovered that entries in DAEN are constantly changing. The data set was originally scraped on 19/11/2021, and then added to daily as each extra day was available. A whole lot of new adverse events have appeared dated mid-September to mid-October. There was a net decrease of 131 pericarditis and net gain of 3 myocarditis adverse events between the earlier and more recent scraping.**
 
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
@@ -61,6 +63,7 @@ Figure 10.
 Figure 11 attempts to estimate the number of adverse events and deaths per vaccine. This is a work in progress and the numbers will change as more information is discovered about prior vaccination numbers. To me it looks like the COVID-19 vaccines have a suspected death rate per million vaccinations that is 184 times the average of 2000 to 2020.
 
 ![Figure 11](graphs/DAEN%202000-2021%20rate%20per%20million.png)
+Figure 11.
 
 There are some significant problems with this comparison. The group of people that received the COVID-19 vaccine is not the same as the group that recevied the other vaccines. This is lumping all adverse events in together which can range from a sore arm to a heart attack. If you want to follow along (and I suggest you check my working, don't believe me, please always check everything), the DAEN data can be collected by going [here](https://apps.tga.gov.au/Prod/daen/daen-entry.aspx). For "Select medicines" type "vaccine" and tick the box "Medicines found for 'vaccine…'"
 Then select the desired year and look at the "Number of reports (cases):" and " Number of cases where death was a reported outcome:"
@@ -87,3 +90,8 @@ https://www.servicesaustralia.gov.au/sites/default/files/annual-report-2019-20v2
 https://www.health.gov.au/sites/default/files/documents/2021/12/covid-19-vaccine-rollout-update-31-december-2021.pdf
 
 https://apps.tga.gov.au/Prod/daen/daen-entry.aspx
+
+Figure 12 shows the DAEN entries with 'error' in the terms. There were a whole lot of new errors showing up in the latest full re-scrape that wasn't in the previous one. The most notable are seen on 1/11/2021 where a number of 'Expired product administered' was recorded, and 5/11/2021 where numerous teenagers were incorrectly given AstraZeneca which was recorded as 'Wrong product administered'.
+
+![Figure 12](graphs/DAEN%20error%20reported.png)
+Figure 12.
