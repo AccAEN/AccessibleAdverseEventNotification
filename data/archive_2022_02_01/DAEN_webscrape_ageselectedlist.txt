@@ -1,0 +1,22 @@
+ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
+693685	13/01/2022	11	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Seizure
+694801	14/01/2022	7	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Dyspnoea Electrocardiogram abnormal Pericarditis
+696560	18/01/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Bundle branch block right Chest pain Painful respiration Pericarditis Sinus arrhythmia Troponin
+696015	18/01/2022	6	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Headache Seizure Urinary incontinence
+697370	19/01/2022	7	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Chest pain Headache Myocarditis Oropharyngeal pain Pyrexia Tachycardia
+697752	20/01/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Myocarditis Pericarditis Vomiting
+698758	21/01/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain C-reactive protein increased Diarrhoea Nausea Pyrexia
+698578	21/01/2022	8	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Chest pain Electrocardiogram abnormal Lethargy Malaise Pericarditis
+698912	21/01/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Palpitations Pericarditis
+699102	22/01/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Seizure
+699830	24/01/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Chapped lips Confusional state Conjunctival hyperaemia C-reactive protein increased Diarrhoea Fibrin D dimer increased Headache Lymphopenia Pyrexia Rash Red blood cell sedimentation rate increased Serum ferritin increased Vomiting
+700726	25/01/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Tonic convulsion
+700084	25/01/2022	7	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Electrocardiogram abnormal Head discomfort Nausea Palpitations Tachycardia
+700090	25/01/2022	7	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Electrocardiogram Lymphadenopathy mediastinal Musculoskeletal chest pain Myocarditis Pyrexia
+701189	26/01/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Palpitations Pericarditis
+700844	26/01/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pyrexia Seizure
+701200	26/01/2022	11	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Electrocardiogram abnormal Pericarditis
+702223	28/01/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Seizure
+701761	28/01/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Costochondritis Decreased appetite Dyspnoea Gastrooesophageal reflux disease Headache Lethargy Musculoskeletal pain Myocarditis
+702410	28/01/2022	7	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain upper Cardiac discomfort Chest pain Deafness Dyspnoea Haematemesis Myocarditis Oropharyngeal pain Palpitations Pyrexia Staphylococcal infection Tremor Troponin increased Vomiting
+702487	29/01/2022	8	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Myalgia Pericarditis
