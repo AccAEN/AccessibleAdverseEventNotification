@@ -35,7 +35,7 @@ Figure 4 estimates the number of myocarditis and pericarditis cases reported in 
 ![Figure 4](graphs/DAEN%20myocarditis%20per%20100000.png)
 Figure 4.
 
-Figures 5 and 6 plot the reports of myocarditis by age grouped by sex or manufacturer respectively. Figures 7 and 8 are the same for pericarditis. A '-' is used where an age was not given in the report. (Note, there is an error here where the ages are out of order with 7 year olds between 69 and 70 etc).
+Figures 5 and 6 plot the reports of myocarditis by age grouped by sex or manufacturer respectively. Figures 7 and 8 are the same for pericarditis. A '-' is used where an age was not given in the report.
 
 ![Figure 5](graphs/DAEN%20myocarditis%20cases%20age.png)
 Figure 5.
