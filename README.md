@@ -1,7 +1,7 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
-**New update. Everything was re-scraped on 15/2/2022-16/2/2022 the previous scrapings are found in data/archive_2022_02_01 along with diff comparisons with the latest scrape. The new re-scraping found 12 more deaths (was 745, now 757 dead), 22 more pericarditis cases (was 1247, now 1269), 44 fewer pericarditis cases (was 2781, now 2737) and 2040 more cardiac disorder cases (was 11085, now 13125).**
+**New update. Everything was re-scraped on 15/2/2022-16/2/2022 the previous scrapings are found in data/archive_2022_02_01 along with diff comparisons with the latest scrape. The new re-scraping found 12 more deaths (was 745, now 757 dead), 22 more myocarditis cases (was 1247, now 1269), 44 fewer pericarditis cases (was 2781, now 2737) and 2040 more cardiac disorder cases (was 11085, now 13125).**
 
 **NOTE - I have recently discovered that entries in DAEN are constantly changing. The data set was originally scraped on 19/11/2021, and then added to daily as each extra day was available. A whole lot of new adverse events have appeared dated mid-September to mid-October. There was a net decrease of 131 pericarditis and net gain of 3 myocarditis adverse events between the earlier and more recent scraping.**
 
