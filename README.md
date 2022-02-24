@@ -101,4 +101,9 @@ Figure 13 is the age standardised case rate per 100,000 according to Public Heal
 ![Figure 13](graphs/Scottish%20age%20standardised%20case%20rate.png)
 Figure 13
 
+Figure 14 shows a selection of the concerning adverse events in children 5-11 years old. Please note that these children have only received the first dose and some will start getting the second dose from 7 March 2022.
 
+![Figure 14](graphs/DAEN%20young%20vaccinated%20extreme%20cases.png)
+Figure 14
+
+The shortened URL for this page is http://bit.ly/35oQMZG
