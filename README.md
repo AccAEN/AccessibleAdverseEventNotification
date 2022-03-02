@@ -1,10 +1,6 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
-**New update. Everything was re-scraped on 15/2/2022-16/2/2022 the previous scrapings are found in data/archive_2022_02_01 along with diff comparisons with the latest scrape. The new re-scraping found 12 more deaths (was 745, now 757 dead), 22 more myocarditis cases (was 1247, now 1269), 44 fewer pericarditis cases (was 2781, now 2737) and 2040 more cardiac disorder cases (was 11085, now 13125).**
-
-**NOTE - I have recently discovered that entries in DAEN are constantly changing. The data set was originally scraped on 19/11/2021, and then added to daily as each extra day was available. A whole lot of new adverse events have appeared dated mid-September to mid-October. There was a net decrease of 131 pericarditis and net gain of 3 myocarditis adverse events between the earlier and more recent scraping.**
-
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
 
 The DAEN website doesn't provide information in a format that might be useful for analysis. Instead you have to scrape the information by entering each individual day and collecting the results from two tables which might span multiple pages. I've already done that and the code is [here](code/DAEN_scrape.py) (this code isn't great, but it is good enough to get the job done).
@@ -16,6 +12,8 @@ The scraped data is found in the data directory. These files are tab separated f
 - [DAEN_webscrape_simple.txt](data/DAEN_webscrape_simple.txt) This file shows the date (twice for reasons that made sense at the time, but don't necessarily make sense anymore), the number of cases reported that day, the number of cases with a single suspected medicine for that day, and the number of deaths reported that day.
 - [DAEN_webscrape_medsummary.txt](data/DAEN_webscrape_medsummary.txt) This file gives a daily count of each adverse event category. Please note that if one patient had multiple adverse events, then each event would be counted in the appropriate category.
 - [DAEN_webscrape_listofreports.txt](data/DAEN_webscrape_listofreports.txt) This file provides the individual reports and includes sex and age (when recorded).
+
+Information about re-scraping can be found [here](https://github.com/AccAEN/AccessibleAdverseEventNotification/tree/main/data)
 
 [Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. The most common MedDRA reaction terms in the Cardiac disorders classification are also listed.
 
