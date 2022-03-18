@@ -104,4 +104,9 @@ Figure 14 shows a selection of the concerning adverse events in children 5-11 ye
 ![Figure 14](graphs/DAEN%20young%20vaccinated%20extreme%20cases.png)
 Figure 14
 
+There has been a sudden increase in heart attack reports (myocardial infarction) in DAEN over the past few days (reports to 4/3/2022). Figure 15 shows DAEN reports with myocardial infarction in the MedDRA reaction terms.
+
+![Figure 15](graphs/DAEN%20myocardial%20infarction.png)
+Figure 15
+
 The shortened URL for this page is http://bit.ly/35oQMZG
