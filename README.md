@@ -109,4 +109,10 @@ There has been a sudden increase in heart attack reports (myocardial infarction)
 ![Figure 15](graphs/DAEN%20myocardial%20infarction.png)
 Figure 15
 
+An interesting pattern emerges when looking at cardiac arrest reports in DAEN with the 28 day moving average (Figure 16). 
+
+![Figure 16](graphs/DAEN%20cardiac%20arrest.png)
+Figure 16
+
+
 The shortened URL for this page is http://bit.ly/35oQMZG
