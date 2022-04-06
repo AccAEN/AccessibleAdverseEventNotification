@@ -94,7 +94,7 @@ Figure 12 shows the DAEN entries with 'error' in the terms. There were a whole l
 ![Figure 12](graphs/DAEN%20error%20reported.png)
 Figure 12.
 
-Figure 13 is the age standardised case rate per 100,000 according to Public Health Scotland.
+Figure 13 is the age standardised case rate per 100,000 according to Public Health Scotland. While this is an interesting graph, there could be a bias in non-testing of those who are unvaccinated. There could also be a bias where people who have been infected decide not to get the vaccine as they already have natural immunity.
 
 ![Figure 13](graphs/Scottish%20age%20standardised%20case%20rate.png)
 Figure 13
