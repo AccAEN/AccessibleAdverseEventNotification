@@ -53,6 +53,8 @@ Figure 9 shows the case fatality rate of people in Australia who contracted COVI
 ![Figure 9](graphs/Case%20fatality%20rate%20with%20COVID-19.png)  
 Figure 9.
 
+***WARNING - It looks like there are some vaccines that don't have the work 'vaccine' in DAEN. This will result in an error in the calculation below. I don't yet know how big this error is and haven't yet worked out how to search for all vaccines. ***
+
 Figure 10 shows the results from DAEN searches using the term 'vaccine' to look at all adverse event and death records for each year from 2000 to 2021. In 2021 there were 737 deaths suspected to be from the COVID-19 vaccine recorded in DAEN and two from all other vaccines combined. There were 98,876 adverse event cases recorded in DAEN from the COVID-19 vaccines and 1,217 from all other vaccines. Please note, this is not normalised for the number of vaccines administered (which would probably be a more useful comparison).
 
 ![Figure 10](graphs/DAEN%202000-2021.png)
@@ -78,6 +80,8 @@ I used the estimate of influenza vaccination of 39% of the 18+ population from [
 I decided to only consider the number of 'fully vaccinated' as a single vaccination instance rather than count each dose. I only looked at one, two and five year old children since that data set was easy to find. There are a lot more vaccinations that I didn't count that would make the difference even larger (i.e. even worse for the COVID-19 vaccines). I think the biggest potential error is using the estimate of influenza vaccinations for the population over 18 years of age from 2014, I am not sure how accurate that estimate is and if it is safe to assume the same for other years.
 
 Here is another way to compare the COVID-19 vaccine safety to previous vaccines (webm video opens in new page):
+
+***WARNING - It looks like there are some vaccines that don't have the work 'vaccine' in DAEN. This will result in an error in the calculation below. I don't yet know how big this error is and haven't yet worked out how to search for all vaccines. ***
 
 [![webm](graphs/playwebm.png)](https://htmlpreview.github.io/?https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/graphs/playwebm.html)
 
