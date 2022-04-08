@@ -103,7 +103,7 @@ Figure 13 is the age standardised case rate per 100,000 according to Public Heal
 ![Figure 13](graphs/Scottish%20age%20standardised%20case%20rate.png)
 Figure 13
 
-Figure 14 shows a selection of the concerning adverse events in children 5-11 years old. Please note that these children have only received the first dose and some will start getting the second dose from 7 March 2022.
+Figure 14 shows a selection of the concerning adverse events in children 5-11 years old. These children have only received the first dose from 10 January 2022 and the second dose from 7 March 2022. The reference list of adverse events has been changed to the European Medicines Agency (EMA) list of [Important Medical Events](https://www.ema.europa.eu/en/documents/other/meddra-important-medical-event-terms-list-version-250_en.xlsx) with syncope excluded. Including syncope would make the list about twice as big, and I don't think children fainting after a needle is as concerning as the other things on the list.
 
 ![Figure 14](graphs/DAEN%20young%20vaccinated%20extreme%20cases.png)
 Figure 14
