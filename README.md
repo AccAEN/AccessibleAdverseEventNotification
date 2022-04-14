@@ -3,7 +3,7 @@ Making the DAEN information accessible.
 
 [Have a look at my articles on substack.](https://accaen.substack.com/p/south-australian-ambulance-service)
 
-*Update on 13/4/2022 - The most recent complete re-scrape resulted in the removal of 275 Myocarditis cases (about 19% of cases) from DAEN. I haven't yet determined if the entire records have been removed or the records remained with the removal of just the term Myocarditis in the record.*
+*Update on 14/4/2022 - The most recent complete re-scrape resulted in the removal of 275 'Myocarditis' cases (about 19% of cases) from DAEN. Most of these cases were changed to 'Myopericarditis'. As a result I have changed the Myocarditis graphs to include 'Myocarditis' and 'Myopericarditis' cases.*
 
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
 
@@ -19,12 +19,12 @@ The scraped data is found in the data directory. These files are tab separated f
 
 Information about re-scraping can be found [here](https://github.com/AccAEN/AccessibleAdverseEventNotification/tree/main/data)
 
-[Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis, pericarditis and the more general term cardiac disorder. The most common MedDRA reaction terms in the Cardiac disorders classification are also listed.
+[Figure 1](graphs/DAEN%20cases.png) shows some of the basic information such as number of adverse events and deaths reported each day for the COVID-19 vaccines, myocarditis/myopericarditis, pericarditis and the more general term cardiac disorder. The most common MedDRA reaction terms in the Cardiac disorders classification are also listed.
 
 ![Figure 1](graphs/DAEN%20cases.png)
 Figure 1.
 
-[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows histograms of reported cases of myocarditis and pericarditis from the COVID-19 vaccine. The younger age groups have a significantly lower and delayed uptake compared with other age groups. Figure 3 shows how the histograms have progressed over time. The age groupings have been changed to reflect age groupings from [vaccine rollout data](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update).
+[Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png) shows histograms of reported cases of myocarditis/myopericarditis and pericarditis from the COVID-19 vaccine. The younger age groups have a significantly lower and delayed uptake compared with other age groups. Figure 3 shows how the histograms have progressed over time. The age groupings have been changed to reflect age groupings from [vaccine rollout data](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update).
 
 ![Figure 2](graphs/DAEN%20histogram%20myocarditis%20age.png)
 Figure 2.
@@ -32,12 +32,12 @@ Figure 2.
 ![Figure 3](graphs/DAEN_histogram_xcarditis_age.gif)  
 Figure 3.
 
-Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 7/1/2022 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 30/12/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available. Please note that records in DAEN for myocarditis and pericarditis that excluded sex or age information were not used in this calculation (16% of myocarditis and 21% of pericarditis cases excluded age or sex information).
+Figure 4 estimates the number of myocarditis and pericarditis cases reported in DAEN per 100,000 people that received two doses. This used DAEN data to 7/1/2022 and the [vaccination numbers](https://www.health.gov.au/resources/collections/covid-19-vaccination-daily-rollout-update) released by the Australian Government for 30/12/2021. An equal number of males and females receiving the vaccination for each group was assumed, as precise numbers were not available. Please note that records in DAEN for myocarditis/myopericarditis and pericarditis that excluded sex or age information were not used in this calculation (16% of myocarditis and 21% of pericarditis cases excluded age or sex information).
 
 ![Figure 4](graphs/DAEN%20myocarditis%20per%20100000.png)
 Figure 4.
 
-Figures 5 and 6 plot the reports of myocarditis by age grouped by sex or manufacturer respectively. Figures 7 and 8 are the same for pericarditis. A '-' is used where an age was not given in the report.
+Figures 5 and 6 plot the reports of myocarditis/myopericarditis by age grouped by sex or manufacturer respectively. Figures 7 and 8 are the same for pericarditis. A '-' is used where an age was not given in the report.
 
 ![Figure 5](graphs/DAEN%20myocarditis%20cases%20age.png)
 Figure 5.
