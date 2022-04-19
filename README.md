@@ -107,20 +107,23 @@ Figure 13 is the age standardised case rate per 100,000 according to Public Heal
 ![Figure 13](graphs/Scottish%20age%20standardised%20case%20rate.png)
 Figure 13
 
-Figure 14 shows a selection of the concerning adverse events in children 5-11 years old. These children have only received the first dose from 10 January 2022 and the second dose from 7 March 2022. The reference list of adverse events has been changed to the European Medicines Agency (EMA) list of [Important Medical Events](https://www.ema.europa.eu/en/documents/other/meddra-important-medical-event-terms-list-version-250_en.xlsx) with syncope excluded. Including syncope would make the list about twice as big, and I don't think children fainting after a needle is as concerning as the other things on the list.
+Figure 14 shows a selection of the concerning adverse events in children 5-11 years old. These children have only received the first dose from 10 January 2022 and the second dose from 7 March 2022. The reference list of adverse events has been changed to the European Medicines Agency (EMA) list of [Important Medical Events](https://www.ema.europa.eu/en/documents/other/meddra-important-medical-event-terms-list-version-250_en.xlsx) with syncope excluded. Including syncope would make the list about twice as big, and I don't think children fainting after a needle is as concerning as the other things on the list. Figure 15 is the same, but for 12 to 17 year old children/teenagers.
 
-![Figure 14](graphs/DAEN%20young%20vaccinated%20extreme%20cases.png)
+![Figure 14](graphs/DAEN%20IMEs%205-11yo.png)
 Figure 14
 
-There has been a sudden increase in heart attack reports (myocardial infarction) in DAEN over the past few days (reports to 4/3/2022). Figure 15 shows DAEN reports with myocardial infarction in the MedDRA reaction terms.
-
-![Figure 15](graphs/DAEN%20myocardial%20infarction.png)
+![Figure 15](graphs/DAEN%20IMEs%2012-17yo.png)
 Figure 15
+
+There has been a sudden increase in heart attack reports (myocardial infarction) in DAEN over the past few days (reports to 4/3/2022). Figure 16 shows DAEN reports with myocardial infarction in the MedDRA reaction terms.
+
+![Figure 16](graphs/DAEN%20myocardial%20infarction.png)
+Figure 16
 
 An interesting pattern emerges when looking at cardiac arrest reports in DAEN with the 28 day moving average (Figure 16). 
 
-![Figure 16](graphs/DAEN%20cardiac%20arrest.png)
-Figure 16
+![Figure 17](graphs/DAEN%20cardiac%20arrest.png)
+Figure 17
 
 
 The shortened URL for this page is http://bit.ly/35oQMZG
