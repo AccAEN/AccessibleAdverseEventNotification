@@ -115,7 +115,7 @@ Figure 14
 ![Figure 15](graphs/DAEN%20IMEs%2012-17yo.png)
 Figure 15
 
-There has been a sudden increase in heart attack reports (myocardial infarction) in DAEN over the past few days (reports to 4/3/2022). Figure 16 shows DAEN reports with myocardial infarction in the MedDRA reaction terms.
+Figure 16 shows DAEN reports with myocardial infarction (heart attack) in the MedDRA reaction terms.
 
 ![Figure 16](graphs/DAEN%20myocardial%20infarction.png)
 Figure 16
