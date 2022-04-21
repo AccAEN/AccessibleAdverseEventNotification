@@ -125,5 +125,10 @@ An interesting pattern emerges when looking at cardiac arrest reports in DAEN wi
 ![Figure 17](graphs/DAEN%20cardiac%20arrest.png)
 Figure 17
 
+In the latest re-scrape I also scraped by manufacturer. Figure 18 shows the suspected AEs and deaths by COVID-19 vaccine manufacturer.
+
+![Figure 18](graphs/DAEN%20cases%20by%20manufacturer.png)
+Figure 18
+
 
 The shortened URL for this page is http://bit.ly/35oQMZG
