@@ -1,6 +1,6 @@
-Pfizer .xpt files
+# Pfizer .xpt files
 
-The files in this directory are a spreadsheet readable (tab separated values) version of the .xpt files from the [Pfizer documents released on 2 May 2022](https://www.icandecide.org/pfizer-documents-download-multiple-files/). I have broken up the files to be able to fit in excel (excel has a 1,048,576 row limit). Excel isn't the ideal platform to analyse this data set, but there are a lot of clever citizen scientists keen to uncover the truth regarding the Pfizer COVID-19 vaccine trial. I thought it might be useful to convert the data to a format most people could work with. 
+The files in this directory are a spreadsheet readable (tab separated values) version of the .xpt files from the [Pfizer documents released on 2 May 2022](https://www.icandecide.org/pfizer-documents-download-multiple-files/). I have broken up some of the files to be able to fit in excel (excel has a 1,048,576 row limit). Excel isn't the ideal platform to analyse this data set, but there are a lot of clever citizen scientists keen to uncover the truth regarding the Pfizer COVID-19 vaccine trial. I thought it might be useful to convert the data to a format most people could work with. 
 
 Original .xpt files and the .tsv files I generated are:
 
