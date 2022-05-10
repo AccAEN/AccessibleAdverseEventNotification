@@ -18,7 +18,7 @@ FDA-CBER-2021-5683-0066701 to -0123167_125742_S1_M5_c4591001-A-D-adfacevd.xpt
     adfacevd_phasen3_control.tsv
     adfacevd_phasen3_treatment.tsv
 ```
-Where phasen refers to the value stored in the PHASEN field. These files can be easily opened in excel by going file, open, browse, All Files (*.*), [find the relevant .tsv file], Open. It is a tab delimited file. 
+These files can be easily opened in excel by going file, open, browse, All Files (*.*), [find the relevant .tsv file], Open. It is a tab delimited file. In the filenames, phasen refers to the value stored in the PHASEN field, control refers to the placebo group and treatment is the group that got the mRNA injection. I had to split it up like this to be able to fit it in excel.
 
 The notes below are unimportant if you just want to view it in excel.
 
