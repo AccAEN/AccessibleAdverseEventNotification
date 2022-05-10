@@ -3,6 +3,8 @@ Making the DAEN information accessible.
 
 [Have a look at my articles on substack.](https://accaen.substack.com/p/south-australian-ambulance-service)
 
+[I'm also on twitter](https://twitter.com/AccAEN)
+
 *Update on 14/4/2022 - The most recent complete re-scrape resulted in the removal of 275 'Myocarditis' cases (about 19% of cases) from DAEN. Most of these cases were changed to 'Myopericarditis'. As a result I have changed the Myocarditis graphs to include 'Myocarditis' and 'Myopericarditis' cases.*
 
 The purpose of this repository is to make the information on Australian COVID-19 adverse events accessible. The Therapeutics Goods Administration (TGA) keeps a database of adverse reactions to medications including the COVID-19 vaccines. This Database of Adverse Event Notifications (DAEN) is available to the public via [this awful web interface](https://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx). The most recent two weeks is never available.
