@@ -1,8 +1,8 @@
 To use the AccAEN pivot table you will need to download two files:
 
-[AccAEN_pivot_table.xlsx](data/AccAEN_pivot_table.xlsx)
+[AccAEN_pivot_table.xlsx](../data/AccAEN_pivot_table.xlsx)
 
-[DAEN_webscrape_listofreports_new.zip](data/DAEN_webscrape_listofreports_new.zip) (this is the latest file which is updated most weekdays)
+[DAEN_webscrape_listofreports_new.zip](../data/DAEN_webscrape_listofreports_new.zip) (this is the latest file which is updated most weekdays)
 
 Open up the spreadsheet and follow the instructions to impress your friends and enemies with cool graphs like this:
 
