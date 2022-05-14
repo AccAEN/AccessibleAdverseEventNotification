@@ -1,6 +1,8 @@
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
+[Here is the new excel-based tool to produce graphs from DAEN](https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/data/AccAEN_pivot_table.md)
+
 [Have a look at my articles on substack.](https://accaen.substack.com/p/south-australian-ambulance-service)
 
 [I'm also on twitter](https://twitter.com/AccAEN)
