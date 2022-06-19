@@ -1,5 +1,7 @@
 These files have been re-scraped at times to keep the information relatively up to date. The archive directories keep a record of old scrapes. Generally each day is scraped as soon as it is available (i.e. whatever day was two weeks ago).
 
+On 18/6/2022 to 19/6/2022, rescraped 1/1/2022 to 5/6/2022. 
+
 On 13/4/2022 re-scraped everything (DAEN from 22/2/2021 to 30/3/2022). Noticed that 275 'Myocarditis' events went missing, but almost all of those ended up as 'Myopericarditis'.
 
 On 9/3/2022 re-scraped from 1/1/2022 to 23/2/2022.
