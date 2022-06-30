@@ -666,3 +666,5 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 739542	07/06/2022	12	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Diarrhoea Electrocardiogram T wave inversion Myalgia Palpitations Pyrexia
 739569	07/06/2022	13	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Dyspnoea exertional Electrocardiogram abnormal Fatigue Pericarditis Troponin increased
 740227	09/06/2022	13	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Hyperhidrosis Lethargy Myalgia Pyrexia Systemic lupus erythematosus
+741245	17/06/2022	17	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Deep vein thrombosis
+741241	17/06/2022	17	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Facial paralysis Pericarditis
