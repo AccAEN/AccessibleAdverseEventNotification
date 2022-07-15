@@ -170,3 +170,4 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 740005	08/06/2022	5	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
 740007	08/06/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Tachycardia
 741997	22/06/2022	6	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Conjunctivitis Helminthic infection Viral infection Viral rash
+742958	30/06/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain upper Cough Loss of consciousness Malaise
