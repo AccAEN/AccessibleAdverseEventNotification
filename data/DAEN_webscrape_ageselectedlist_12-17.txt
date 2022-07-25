@@ -672,3 +672,5 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 743473	04/07/2022	15	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis
 743417	04/07/2022	12	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Chest pain Diarrhoea Electrocardiogram abnormal Nausea Pericarditis Tachycardia Vomiting
 744066	08/07/2022	17	F	Fluarix Tetra Vaccine (Influenza virus haemagglutinin) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Seizure Syncope
+744251	11/07/2022	17	-	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Conversion disorder Petit mal epilepsy
+744267	11/07/2022	17	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain upper Chest pain Concomitant disease aggravated Costochondritis Dizziness Dyspnoea Fibrin D dimer increased Haemoptysis Hypokalaemia Myocarditis Palpitations Pyrexia Troponin increased
