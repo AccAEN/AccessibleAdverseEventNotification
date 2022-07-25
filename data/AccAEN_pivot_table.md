@@ -11,3 +11,5 @@ Open up the spreadsheet and follow the instructions to impress your friends and 
 ![AccAEN_pivot_table_eg01](../graphs/AccAEN_pivot_table_eg01.png)
 
 ![AccAEN_pivot_table_eg02](../graphs/AccAEN_pivot_table_eg02.png)
+
+[Back to main page](https://github.com/AccAEN/AccessibleAdverseEventNotification/blob/main/README.md)
