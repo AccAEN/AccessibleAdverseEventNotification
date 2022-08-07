@@ -675,3 +675,5 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 744251	11/07/2022	17	-	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Conversion disorder Petit mal epilepsy
 744267	11/07/2022	17	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain upper Chest pain Concomitant disease aggravated Costochondritis Dizziness Dyspnoea Fibrin D dimer increased Haemoptysis Hypokalaemia Myocarditis Palpitations Pyrexia Troponin increased
 744691	14/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Immunodeficiency Myocarditis
+746001	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Intussusception Lethargy Loss of consciousness Myalgia Pyrexia
+746162	25/07/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis Pleuritic pain
