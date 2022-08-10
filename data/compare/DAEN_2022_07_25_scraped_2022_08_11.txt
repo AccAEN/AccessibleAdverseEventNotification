@@ -1,0 +1,280 @@
+2022	7	25	745889	25/07/2022	70	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Rash
+2022	7	25	745890	25/07/2022	45	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Dyspnoea Hot flush Tremor
+2022	7	25	745891	25/07/2022	44	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Injection site reaction
+2022	7	25	745893	25/07/2022	59	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Nausea Oropharyngeal pain Pruritus
+2022	7	25	745894	25/07/2022	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Expired product administered Vaccination error
+2022	7	25	745896	25/07/2022	27	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Cough Dyspnoea
+2022	7	25	745897	25/07/2022	63	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Injection site pruritus
+2022	7	25	745898	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Lymphadenopathy Malaise
+2022	7	25	745899	25/07/2022	29	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Flushing Pruritus
+2022	7	25	745900	25/07/2022	22	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fatigue Headache Nausea Pruritus Vomiting
+2022	7	25	745902	25/07/2022	60	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Retching Swelling of eyelid
+2022	7	25	745903	25/07/2022	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Burning sensation Chest pain Palpitations
+2022	7	25	745905	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea
+2022	7	25	745906	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Ear discomfort Ear pain Tinnitus
+2022	7	25	745907	25/07/2022	69	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Paraesthesia
+2022	7	25	745908	25/07/2022	33	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Dyspnoea Urticaria
+2022	7	25	745909	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Urticaria
+2022	7	25	745910	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Dysgeusia Paraesthesia
+2022	7	25	745913	25/07/2022	89	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Plendil (felodipine) - Not suspected Tenormin (atenolol) - Not suspected Crestor (rosuvastatin calcium) - Not suspected Aldactone (spironolactone) - Not suspected	Inappropriate schedule of product administration Vaccination error
+2022	7	25	745914	25/07/2022	72	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Shoulder injury related to vaccine administration
+2022	7	25	745918	25/07/2022	21	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Concomitant disease aggravated
+2022	7	25	745919	25/07/2022	44	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Extensive swelling of vaccinated limb Lethargy SARS-CoV-2 test positive
+2022	7	25	745920	25/07/2022	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Chills Diarrhoea Headache Injection site pain
+2022	7	25	745925	25/07/2022	64	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysphagia Dysphonia Pruritus Throat tightness
+2022	7	25	745926	25/07/2022	60	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Nausea Pruritus
+2022	7	25	745928	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Muscular weakness
+2022	7	25	745929	25/07/2022	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Stevens-Johnson syndrome
+2022	7	25	745931	25/07/2022	28	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia
+2022	7	25	745933	25/07/2022	78	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Depressed mood
+2022	7	25	745937	25/07/2022	34	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site pain Lower respiratory tract infection
+2022	7	25	745938	25/07/2022	34	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Muscle spasms Palpitations Paraesthesia
+2022	7	25	745939	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Paraesthesia oral Pruritus
+2022	7	25	745940	25/07/2022	41	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Injection site pain Lethargy
+2022	7	25	745941	25/07/2022	48	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aphonia Cough Dizziness Hypoaesthesia Muscular weakness Paraesthesia
+2022	7	25	745942	25/07/2022	53	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia
+2022	7	25	745943	25/07/2022	38	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain
+2022	7	25	745944	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Dyspnoea Paraesthesia oral Throat tightness
+2022	7	25	745945	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Urticaria
+2022	7	25	745946	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vulvovaginal candidiasis Vulvovaginal discomfort
+2022	7	25	745947	25/07/2022	55	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Pyrexia
+2022	7	25	745948	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Vulvovaginal candidiasis Vulvovaginal discomfort
+2022	7	25	745951	25/07/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	745952	25/07/2022	68	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache
+2022	7	25	745953	25/07/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cough Lip swelling Pruritus
+2022	7	25	745954	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Oropharyngeal discomfort
+2022	7	25	745955	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Vaxigrip Tetra (Influenza virus haemagglutinin) - Suspected	Headache Herpes zoster Rash erythematous
+2022	7	25	745956	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated
+2022	7	25	745958	25/07/2022	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypoaesthesia Muscular weakness Pain in extremity Paraesthesia Swelling
+2022	7	25	745959	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	745960	25/07/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Tachycardia
+2022	7	25	745961	25/07/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Urticaria
+2022	7	25	745962	25/07/2022	81	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Dizziness Dyspnoea exertional Lethargy Palpitations
+2022	7	25	745963	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Tachycardia
+2022	7	25	745964	25/07/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Conjunctivitis Pyrexia Rash erythematous
+2022	7	25	745966	25/07/2022	68	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Lower respiratory tract infection
+2022	7	25	745968	25/07/2022	63	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Decreased appetite Diarrhoea Palpitations Weight decreased
+2022	7	25	745969	25/07/2022	68	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	745984	25/07/2022	26	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Fatigue
+2022	7	25	745986	25/07/2022	69	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza like illness
+2022	7	25	745989	25/07/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Lower respiratory tract infection Rhinovirus infection
+2022	7	25	745990	25/07/2022	74	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza like illness
+2022	7	25	745991	25/07/2022	66	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+2022	7	25	745993	25/07/2022	42	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site reaction Lethargy Lymphadenopathy
+2022	7	25	745994	25/07/2022	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cough Oropharyngeal pain Rhinorrhoea
+2022	7	25	746001	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Intussusception Lethargy Myalgia Pyrexia Syncope
+2022	7	25	746005	25/07/2022	37	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Headache Injection site pain Injection site swelling Lethargy Myalgia Pyrexia Seizure
+2022	7	25	746006	25/07/2022	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site reaction Lethargy Myalgia Palpitations
+2022	7	25	746007	25/07/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Diarrhoea Headache Lethargy Myalgia Nausea SARS-CoV-2 test positive
+2022	7	25	746009	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Lethargy Myalgia
+2022	7	25	746012	25/07/2022	6	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Expired product administered Vaccination error
+2022	7	25	746014	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+2022	7	25	746016	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site pain Lethargy Palpitations Rash
+2022	7	25	746017	25/07/2022	36	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	746018	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Headache Injection site pain Lethargy Myalgia
+2022	7	25	746019	25/07/2022	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ataxia Dizziness Headache Hypoaesthesia oral Paraesthesia Polyuria Somnolence Vision blurred
+2022	7	25	746021	25/07/2022	55	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Cough Dysphagia Dyspnoea Injection site reaction Insomnia Nasal congestion Pharyngeal swelling Taste disorder
+2022	7	25	746022	25/07/2022	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Headache Myalgia
+2022	7	25	746023	25/07/2022	63	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Eye pain Facial pain Headache Hypoacusis Myalgia Paraesthesia Trigeminal neuralgia
+2022	7	25	746025	25/07/2022	-	-	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Dizziness Fatigue Headache Injection site reaction Lymphadenopathy Nasal congestion Oropharyngeal pain Pyrexia Rash
+2022	7	25	746026	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chills Headache Injection site reaction Lethargy Myalgia Nausea
+2022	7	25	746030	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Extensive swelling of vaccinated limb Injection site pain Lethargy Myalgia
+2022	7	25	746031	25/07/2022	46	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site reaction Lethargy Myalgia
+2022	7	25	746034	25/07/2022	93	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+2022	7	25	746036	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Ear pain Headache Injection site reaction Lethargy Myalgia Pyrexia
+2022	7	25	746037	25/07/2022	25	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Lethargy Palpitations Tachycardia
+2022	7	25	746038	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site reaction Lethargy Myalgia
+2022	7	25	746039	25/07/2022	44	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site reaction Myalgia
+2022	7	25	746040	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Haemorrhage in pregnancy Headache Injection site pain Lethargy Myalgia
+2022	7	25	746041	25/07/2022	57	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site pain Lethargy Myalgia Nausea Pyrexia
+2022	7	25	746042	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chest discomfort Diarrhoea Lethargy Myalgia
+2022	7	25	746044	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Injection site pain Lethargy Myalgia Nausea Pyrexia Tachycardia
+2022	7	25	746045	25/07/2022	60	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Headache Injection site pain
+2022	7	25	746046	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Lethargy Myalgia
+2022	7	25	746049	25/07/2022	19	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Palpitations
+2022	7	25	746050	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated
+2022	7	25	746051	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site pruritus Lethargy Myalgia Vertigo
+2022	7	25	746053	25/07/2022	53	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site pain Lethargy Lymphadenopathy Myalgia Pyrexia
+2022	7	25	746055	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis
+2022	7	25	746057	25/07/2022	49	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Injection site pain
+2022	7	25	746058	25/07/2022	37	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Headache Injection site pain Myalgia Pyrexia
+2022	7	25	746061	25/07/2022	70	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza like illness
+2022	7	25	746062	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Malaise
+2022	7	25	746063	25/07/2022	53	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Extensive swelling of vaccinated limb Headache Lethargy Nasal congestion Productive cough
+2022	7	25	746066	25/07/2022	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Transient global amnesia
+2022	7	25	746068	25/07/2022	72	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Lethargy Myalgia
+2022	7	25	746069	25/07/2022	27	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Injection site swelling
+2022	7	25	746071	25/07/2022	45	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Injection site infection Injection site inflammation Lymphadenopathy
+2022	7	25	746072	25/07/2022	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Tendonitis
+2022	7	25	746073	25/07/2022	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza like illness
+2022	7	25	746075	25/07/2022	50	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chest pain Chills Headache Injection site reaction Lethargy Myalgia
+2022	7	25	746079	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Lymphadenopathy Rash
+2022	7	25	746083	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Disturbance in attention Dyspnoea Fatigue Muscle spasms Palpitations Paraesthesia Rash
+2022	7	25	746086	25/07/2022	50	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Dyspnoea Phrenic nerve paralysis
+2022	7	25	746087	25/07/2022	16	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Not suspected	Product administered to patient of inappropriate age Vaccination error
+2022	7	25	746088	25/07/2022	69	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Fatigue Feeling abnormal Injection site pain
+2022	7	25	746089	25/07/2022	28	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vitiligo
+2022	7	25	746090	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Headache
+2022	7	25	746091	25/07/2022	38	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Arthralgia Injection site reaction Pyrexia
+2022	7	25	746092	25/07/2022	60	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site erythema Injection site pain Lethargy Myalgia
+2022	7	25	746093	25/07/2022	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+2022	7	25	746094	25/07/2022	21	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated
+2022	7	25	746096	25/07/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pyrexia Vaccination error Wrong product administered
+2022	7	25	746098	25/07/2022	71	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Fatigue Palpitations
+2022	7	25	746099	25/07/2022	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Expired product administered Vaccination error
+2022	7	25	746100	25/07/2022	50	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Palpitations Paraesthesia
+2022	7	25	746101	25/07/2022	25	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Fatigue Malaise Nausea Periorbital swelling
+2022	7	25	746103	25/07/2022	50	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Paraesthesia
+2022	7	25	746104	25/07/2022	32	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Arthralgia Chills Diarrhoea Headache Injection site reaction Lethargy Myalgia Tinnitus Vomiting
+2022	7	25	746105	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Cough Headache Injection site pain Myalgia Pyrexia
+2022	7	25	746106	25/07/2022	63	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Atrial fibrillation Ventricular extrasystoles
+2022	7	25	746107	25/07/2022	68	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Abdominal pain Arthralgia Chest pain Dyspnoea Headache Injection site reaction Lethargy Myalgia Nausea Palpitations
+2022	7	25	746108	25/07/2022	33	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Rash
+2022	7	25	746110	25/07/2022	34	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	746112	25/07/2022	34	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site pain Lethargy Nausea Pyrexia
+2022	7	25	746113	25/07/2022	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Headache Injection site reaction Lethargy Myalgia
+2022	7	25	746116	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Headache Injection site pain Lethargy Myalgia
+2022	7	25	746117	25/07/2022	61	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chills Headache Injection site pain Lethargy
+2022	7	25	746119	25/07/2022	29	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Erythema Hypoacusis Tinnitus
+2022	7	25	746120	25/07/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Rash
+2022	7	25	746121	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vaccination error Wrong product administered
+2022	7	25	746122	25/07/2022	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cough Lethargy
+2022	7	25	746123	25/07/2022	72	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia
+2022	7	25	746124	25/07/2022	92	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Vaccination error
+2022	7	25	746126	25/07/2022	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocarditis Palpitations Troponin increased
+2022	7	25	746127	25/07/2022	34	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Paraesthesia
+2022	7	25	746129	25/07/2022	37	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Chest X-ray abnormal Computerised tomogram abnormal Cough Dyspnoea Electrocardiogram abnormal Fatigue Malaise Pericarditis Pleuritic pain Thymus disorder
+2022	7	25	746131	25/07/2022	32	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Lethargy Lymphadenopathy Malaise Myalgia Neuralgia Neurological symptom Pain in extremity Palpitations Pulmonary embolism
+2022	7	25	746132	25/07/2022	48	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Diarrhoea Dyspnoea Haemorrhage Headache Lethargy Nausea Pain in extremity Proctalgia
+2022	7	25	746133	25/07/2022	75	M	FLUAD QUAD (Influenza virus haemagglutinin) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	SARS-CoV-2 test positive
+2022	7	25	746134	25/07/2022	52	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chillblains
+2022	7	25	746135	25/07/2022	46	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Vitamin D3 (colecalciferol) - Not suspected Tradename not specified (magnesium) - Not suspected Tradename not specified (zinc) - Not suspected Micardis (telmisartan) - Not suspected Tradename not specified (Product not coded) - Not suspected	COVID-19 SARS-CoV-2 test positive Vaccination failure
+2022	7	25	746136	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Balance disorder Dyspnoea Hypokinesia Lacrimation increased Neoplasm malignant Oral candidiasis Rash macular Solar lentigo Tinnitus Visual impairment
+2022	7	25	746137	25/07/2022	63	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Drug ineffective Suspected COVID-19 Vaccine breakthrough infection
+2022	7	25	746138	25/07/2022	58	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Candesartan-hydrochlorothiazide (candesartan cilexetil; hydrochlorothiazide) - Not suspected Tradename not specified (amlodipine) - Not suspected Tradename not specified (atorvastatin calcium) - Not suspected	COVID-19 Drug ineffective SARS-CoV-2 test positive
+2022	7	25	746139	25/07/2022	55	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Tradename not specified (prednisolone) - Not suspected Imuran (azathioprine) - Not suspected	COVID-19 Drug ineffective SARS-CoV-2 test positive Vaccine breakthrough infection
+2022	7	25	746146	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Product administered to patient of inappropriate age Vaccination error
+2022	7	25	746153	25/07/2022	61	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected Fluarix Tetra Vaccine (Influenza virus haemagglutinin) - Suspected	Arthralgia Cough Headache Injection site reaction Lethargy Myalgia Pyrexia Sneezing
+2022	7	25	746154	25/07/2022	45	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Concomitant disease aggravated Conversion disorder Headache Injection site pain Injection site reaction Nervous system disorder Pain in extremity
+2022	7	25	746155	25/07/2022	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Dizziness Erythema Tachycardia
+2022	7	25	746157	25/07/2022	48	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Disease recurrence
+2022	7	25	746158	25/07/2022	70	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Lymphadenopathy Shoulder injury related to vaccine administration Vaccination error
+2022	7	25	746159	25/07/2022	-	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Lymphadenopathy
+2022	7	25	746160	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Bursitis Fatigue Shoulder injury related to vaccine administration
+2022	7	25	746161	25/07/2022	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injected limb mobility decreased Injection site pain Lymphadenopathy Vomiting
+2022	7	25	746162	25/07/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis Pleuritic pain
+2022	7	25	746163	25/07/2022	46	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Inappropriate schedule of product administration Vaccination error
+2022	7	25	746166	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Superficial vein thrombosis Vaginal haemorrhage
+2022	7	25	746167	25/07/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Lymphadenopathy Pyrexia
+2022	7	25	746168	25/07/2022	61	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Asthenia Headache Lethargy Myalgia Oropharyngeal pain Pyrexia
+2022	7	25	746171	25/07/2022	55	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Asthenia Headache Lethargy Myalgia Pyrexia
+2022	7	25	746172	25/07/2022	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arrhythmia Palpitations Pericarditis
+2022	7	25	746173	25/07/2022	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Cardio-respiratory arrest Dyspnoea Hypoxia
+2022	7	25	746174	25/07/2022	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain
+2022	7	25	746175	25/07/2022	52	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arrhythmia Myocarditis
+2022	7	25	746176	25/07/2022	57	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Fluarix Tetra Vaccine (Influenza virus haemagglutinin) - Not suspected COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected	Guillain-Barre syndrome Paraesthesia
+2022	7	25	746177	25/07/2022	68	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Guillain-Barre syndrome
+2022	7	25	746178	25/07/2022	66	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Cough Dyspnoea Pericarditis
+2022	7	25	746179	25/07/2022	24	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected Tradename not specified (Product not coded) - Suspected	Tonic convulsion
+2022	7	25	746180	25/07/2022	28	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Dyspnoea Pericarditis
+2022	7	25	746181	25/07/2022	59	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Rash
+2022	7	25	746183	25/07/2022	45	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Aptyalism Concomitant disease aggravated Dysphagia Dyspnoea Muscular weakness Oropharyngeal pain
+2022	7	25	746187	25/07/2022	86	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Inappropriate schedule of product administration Vaccination error
+2022	7	25	746188	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Inappropriate schedule of product administration Vaccination error
+2022	7	25	746190	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state Headache Lymphadenopathy Oropharyngeal pain Pyrexia
+2022	7	25	746196	25/07/2022	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pain in extremity Paraesthesia
+2022	7	25	746197	25/07/2022	64	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Ageusia
+2022	7	25	746200	25/07/2022	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Inappropriate schedule of product administration Vaccination error
+2022	7	25	746201	25/07/2022	37	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Exposure during pregnancy Foetal death
+2022	7	25	746202	25/07/2022	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	746204	25/07/2022	61	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Vertigo
+2022	7	25	746206	25/07/2022	29	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Cognitive disorder Dizziness Dyspnoea Headache Pain in extremity Palpitations Panic attack Tachycardia Tremor Vertigo Visual impairment
+2022	7	25	746207	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Suicidal ideation
+2022	7	25	746209	25/07/2022	49	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Altered state of consciousness Chest pain Headache
+2022	7	25	746211	25/07/2022	52	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Nausea Syncope
+2022	7	25	746212	25/07/2022	75	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cough Dyspnoea Rash
+2022	7	25	746214	25/07/2022	43	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Heart rate increased
+2022	7	25	746215	25/07/2022	28	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anosmia Fatigue Lethargy Pyrexia
+2022	7	25	746216	25/07/2022	75	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Rash
+2022	7	25	746217	25/07/2022	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Not suspected	Ageusia
+2022	7	25	746218	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Lymphadenopathy
+2022	7	25	746221	25/07/2022	53	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Lethargy Lymphadenopathy Mass Miliaria Pyrexia
+2022	7	25	746223	25/07/2022	4	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Product administered to patient of inappropriate age Vaccination error
+2022	7	25	746229	25/07/2022	35	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Pericarditis Troponin increased
+2022	7	25	746233	25/07/2022	66	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Lethargy Nausea Pain in extremity Pyrexia
+2022	7	25	746235	25/07/2022	46	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site cellulitis
+2022	7	25	746237	25/07/2022	66	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Lethargy Nausea Pain in extremity Pyrexia
+2022	7	25	746238	25/07/2022	73	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Headache Myalgia
+2022	7	25	746241	25/07/2022	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myalgia
+2022	7	25	746242	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Urticaria
+2022	7	25	746244	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	COVID-19 Drug ineffective
+2022	7	25	746254	25/07/2022	59	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Dizziness Headache Influenza like illness Nausea
+2022	7	25	746258	25/07/2022	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Body temperature decreased Dizziness Fatigue Hypotension Injection site pain Myalgia Pyrexia Syncope Tachycardia
+2022	7	25	746259	25/07/2022	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chills Fatigue Nausea
+2022	7	25	746260	25/07/2022	67	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hot flush Injection site pain
+2022	7	25	746261	25/07/2022	47	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Headache Lymphadenopathy Myalgia Nausea
+2022	7	25	746262	25/07/2022	58	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Fatigue Headache Hyperhidrosis Myalgia
+2022	7	25	746263	25/07/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Not suspected	Bursitis Chest pain Gastrooesophageal reflux disease Haemochromatosis
+2022	7	25	746264	25/07/2022	60	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Injected limb mobility decreased Injection site pain
+2022	7	25	746265	25/07/2022	41	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Palpitations
+2022	7	25	746266	25/07/2022	33	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Extensive swelling of vaccinated limb Fatigue Headache Lymphadenopathy Mobility decreased Pain
+2022	7	25	746267	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain
+2022	7	25	746269	25/07/2022	64	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Eye inflammation Uveitis Visual impairment
+2022	7	25	746270	25/07/2022	46	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Bell's palsy Fatigue Headache Myalgia Nausea
+2022	7	25	746271	25/07/2022	71	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anaemia Immune thrombocytopenia Inappropriate schedule of product administration Vaccination error
+2022	7	25	746272	25/07/2022	60	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Feeling cold Headache Myalgia Paraesthesia Rash vesicular
+2022	7	25	746273	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Fatigue Myalgia
+2022	7	25	746275	25/07/2022	32	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Eye pain Myalgia Pain in extremity Pyrexia
+2022	7	25	746276	25/07/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Dizziness Dyspnoea Pain in extremity
+2022	7	25	746277	25/07/2022	69	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Abdominal pain upper Chills Diarrhoea Migraine Rash Vertigo
+2022	7	25	746278	25/07/2022	75	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Arthralgia Exercise tolerance decreased Myalgia
+2022	7	25	746279	25/07/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Feeling hot Nausea Paraesthesia
+2022	7	25	746280	25/07/2022	76	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Oral mucosal blistering
+2022	7	25	746281	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Lethargy Urticaria
+2022	7	25	746283	25/07/2022	34	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Alopecia
+2022	7	25	746284	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Product administered to patient of inappropriate age Vaccination error
+2022	7	25	746285	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Headache Injection site pain Myalgia
+2022	7	25	746286	25/07/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Extensive swelling of vaccinated limb Injection site reaction Lethargy Myalgia
+2022	7	25	746287	25/07/2022	56	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Abdominal pain Arthralgia Diarrhoea Headache Injection site reaction Lethargy Myalgia Vomiting
+2022	7	25	746289	25/07/2022	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Cough Diarrhoea Headache Lethargy Myalgia Nausea Pyrexia
+2022	7	25	746290	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Injection site pain Lethargy Nausea
+2022	7	25	746291	25/07/2022	39	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Product administered at inappropriate site Vaccination error
+2022	7	25	746293	25/07/2022	51	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Underdose Vaccination error
+2022	7	25	746296	25/07/2022	31	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Lymphadenopathy
+2022	7	25	746297	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Arthralgia Injection site pain Lethargy Myalgia Nausea
+2022	7	25	746298	25/07/2022	47	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Incorrect dose administered Vaccination error
+2022	7	25	746299	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Chills Headache Injection site pain Lethargy
+2022	7	25	746300	25/07/2022	48	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Arrhythmia Tachycardia
+2022	7	25	746301	25/07/2022	87	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Incorrect dose administered Vaccination error
+2022	7	25	746302	25/07/2022	59	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Incorrect dose administered Vaccination error
+2022	7	25	746303	25/07/2022	-	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Incorrect dose administered Vaccination error
+2022	7	25	746304	25/07/2022	59	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Arthralgia Chills Headache Inflammation Myalgia
+2022	7	25	746305	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Influenza like illness Lethargy
+2022	7	25	746306	25/07/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Lethargy Lymphadenopathy Myalgia
+2022	7	25	746307	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Eye pain Headache Ocular discomfort
+2022	7	25	746308	25/07/2022	62	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site pain Lethargy Lymphadenopathy Myalgia Oropharyngeal discomfort
+2022	7	25	746309	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site pain Lethargy Swelling
+2022	7	25	746310	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site pain Lethargy Myalgia Pyrexia
+2022	7	25	746311	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Epistaxis Fatigue Headache Injection site pain Injection site swelling Lymphadenopathy Myalgia Nausea Pyrexia
+2022	7	25	746312	25/07/2022	49	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea exertional Malaise Palpitations
+2022	7	25	746313	25/07/2022	43	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vaginal haemorrhage
+2022	7	25	746314	25/07/2022	27	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Arthralgia Diarrhoea Injection site reaction Lethargy Myalgia Pyrexia
+2022	7	25	746315	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Depression Diarrhoea Headache Lethargy Myalgia Vomiting
+2022	7	25	746316	25/07/2022	36	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Focal dyscognitive seizures Muscle spasms Speech disorder
+2022	7	25	746317	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Injection site pain Lethargy Myalgia
+2022	7	25	746318	25/07/2022	64	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site pain Lethargy Myalgia
+2022	7	25	746319	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site pain Lymphadenopathy Swelling
+2022	7	25	746320	25/07/2022	43	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chest pain Chills Lethargy Myalgia
+2022	7	25	746321	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Arthralgia Headache Injection site pain Lethargy Pyrexia Swelling
+2022	7	25	746322	25/07/2022	50	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Headache Lethargy Myalgia
+2022	7	25	746323	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Pityriasis rosea
+2022	7	25	746324	25/07/2022	45	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site reaction Lethargy
+2022	7	25	746325	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pyrexia
+2022	7	25	746328	25/07/2022	62	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Eutroxsig (levothyroxine sodium) - Not suspected	Cardiac failure Pulmonary embolism
+2022	7	25	746329	25/07/2022	42	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Cognitive disorder Dyspnoea Varicose vein
+2022	7	25	746330	25/07/2022	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Extra dose administered Vaccination error
+2022	7	25	746331	25/07/2022	39	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Concomitant disease aggravated Headache Injection site reaction Insomnia Lethargy Myalgia Pyrexia Tongue blistering
+2022	7	25	746332	25/07/2022	44	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Dizziness Flushing Hypersensitivity Nausea Palpitations Rash erythematous
+2022	7	25	746333	25/07/2022	55	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blepharospasm Chest discomfort Dyspepsia Laryngitis Muscle twitching Paraesthesia Swelling face
+2022	7	25	746334	25/07/2022	25	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypersensitivity Urticaria cholinergic
+2022	7	25	746343	25/07/2022	57	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fatigue Headache Myalgia

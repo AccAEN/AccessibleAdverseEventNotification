@@ -1,0 +1,132 @@
+22c22
+< 2022	7	25	745919	25/07/2022	44	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Extensive swelling of vaccinated limb Lethargy Vaccine breakthrough infection
+---
+> 2022	7	25	745919	25/07/2022	44	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Extensive swelling of vaccinated limb Lethargy SARS-CoV-2 test positive
+29c29
+< 2022	7	25	745933	25/07/2022	78	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Depression
+---
+> 2022	7	25	745933	25/07/2022	78	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Depressed mood
+37c37
+< 2022	7	25	745944	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Dyspnoea Hypersensitivity Paraesthesia oral Throat tightness
+---
+> 2022	7	25	745944	25/07/2022	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Angioedema Dyspnoea Paraesthesia oral Throat tightness
+42,43d41
+< 2022	7	25	745949	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745950	25/07/2022	63	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+50d47
+< 2022	7	25	745957	25/07/2022	78	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+56c53
+< 2022	7	25	745963	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Heart rate increased
+---
+> 2022	7	25	745963	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Tachycardia
+58d54
+< 2022	7	25	745965	25/07/2022	67	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+62,64d57
+< 2022	7	25	745972	25/07/2022	95	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745973	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745975	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+66d58
+< 2022	7	25	745985	25/07/2022	-	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Adverse event following immunisation
+68,69d59
+< 2022	7	25	745987	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745988	25/07/2022	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+73d62
+< 2022	7	25	745992	25/07/2022	55	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+76,85c65
+< 2022	7	25	745995	25/07/2022	76	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+< 2022	7	25	745996	25/07/2022	74	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745997	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745998	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	745999	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746000	25/07/2022	-	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+< 2022	7	25	746001	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Intussusception Lethargy Loss of consciousness Myalgia Pyrexia
+< 2022	7	25	746002	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746003	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746004	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+---
+> 2022	7	25	746001	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Intussusception Lethargy Myalgia Pyrexia Syncope
+88c68
+< 2022	7	25	746007	25/07/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Breakthrough COVID-19 Chills Diarrhoea Headache Lethargy Myalgia Nausea
+---
+> 2022	7	25	746007	25/07/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Chills Diarrhoea Headache Lethargy Myalgia Nausea SARS-CoV-2 test positive
+90,91d69
+< 2022	7	25	746010	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746011	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+93d70
+< 2022	7	25	746013	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+104,105d80
+< 2022	7	25	746027	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746029	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+108d82
+< 2022	7	25	746033	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+110d83
+< 2022	7	25	746035	25/07/2022	5	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+118d90
+< 2022	7	25	746043	25/07/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+126d97
+< 2022	7	25	746054	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+128d98
+< 2022	7	25	746056	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+131,132d100
+< 2022	7	25	746059	25/07/2022	69	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746060	25/07/2022	43	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+134,137c102,103
+< 2022	7	25	746062	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Limb injury Malaise
+< 2022	7	25	746063	25/07/2022	53	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthma Headache Injection site reaction Lethargy Nasal congestion Productive cough
+< 2022	7	25	746064	25/07/2022	69	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+< 2022	7	25	746065	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+---
+> 2022	7	25	746062	25/07/2022	65	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Malaise
+> 2022	7	25	746063	25/07/2022	53	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Extensive swelling of vaccinated limb Headache Lethargy Nasal congestion Productive cough
+139d104
+< 2022	7	25	746067	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+142d106
+< 2022	7	25	746070	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+145,146c109
+< 2022	7	25	746073	25/07/2022	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza
+< 2022	7	25	746074	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+---
+> 2022	7	25	746073	25/07/2022	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Influenza like illness
+148,149d110
+< 2022	7	25	746076	25/07/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+< 2022	7	25	746077	25/07/2022	48	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+151d111
+< 2022	7	25	746081	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+173d132
+< 2022	7	25	746109	25/07/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+175d133
+< 2022	7	25	746111	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+178d135
+< 2022	7	25	746114	25/07/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+183c140
+< 2022	7	25	746121	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Wrong product administered
+---
+> 2022	7	25	746121	25/07/2022	40	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vaccination error Wrong product administered
+187d143
+< 2022	7	25	746125	25/07/2022	-	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+193c149
+< 2022	7	25	746133	25/07/2022	75	M	FLUAD QUAD (Influenza virus haemagglutinin) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vaccine breakthrough infection
+---
+> 2022	7	25	746133	25/07/2022	75	M	FLUAD QUAD (Influenza virus haemagglutinin) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	SARS-CoV-2 test positive
+201d156
+< 2022	7	25	746152	25/07/2022	41	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Arthralgia Headache Pain Pericarditis
+212d166
+< 2022	7	25	746164	25/07/2022	23	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Echocardiogram abnormal Myocarditis Troponin increased
+233a188
+> 2022	7	25	746201	25/07/2022	37	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Exposure during pregnancy Foetal death
+235d189
+< 2022	7	25	746203	25/07/2022	62	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+242d195
+< 2022	7	25	746213	25/07/2022	37	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Chest pain Cough Fatigue Malaise Pericarditis
+259c212
+< 2022	7	25	746258	25/07/2022	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Dizziness Fatigue Heart rate increased Hypotension Hypothermia Injection site pain Myalgia Pyrexia Syncope Tremor
+---
+> 2022	7	25	746258	25/07/2022	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Body temperature decreased Dizziness Fatigue Hypotension Injection site pain Myalgia Pyrexia Syncope Tachycardia
+274d226
+< 2022	7	25	746274	25/07/2022	14	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation
+280,281c232,233
+< 2022	7	25	746280	25/07/2022	76	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Oral mucosal blistering
+< 2022	7	25	746281	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Electrocardiogram abnormal Lethargy Urticaria
+---
+> 2022	7	25	746280	25/07/2022	76	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Oral mucosal blistering
+> 2022	7	25	746281	25/07/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Lethargy Urticaria
