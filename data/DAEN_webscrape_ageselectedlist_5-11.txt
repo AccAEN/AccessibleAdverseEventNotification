@@ -41,7 +41,7 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 704159	02/02/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Feeling hot Nausea Seizure
 704517	02/02/2022	5	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Enterocolitis
 704349	02/02/2022	11	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anxiety Injection site reaction Pallor Presyncope Tachycardia Throat irritation Tonic clonic movements Vomiting
-704485	02/02/2022	9	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anaphylactic reaction
+704485	02/02/2022	9	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anaphylactic reaction Lymphadenopathy Pyrexia
 704674	03/02/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Pericarditis
 705290	04/02/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Electrocardiogram ST segment elevation
 705282	04/02/2022	8	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis Oropharyngeal pain
@@ -117,8 +117,8 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 725359	30/03/2022	8	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Chest X-ray abnormal Diabetic ketoacidosis Dyspnoea Electrocardiogram abnormal Fatigue Lethargy Polydipsia Polyuria Tachycardia Thirst Type 1 diabetes mellitus
 725946	31/03/2022	11	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Seizure
 726028	31/03/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis
-725996	31/03/2022	4	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute lymphocytic leukaemia
 725989	31/03/2022	7	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fibrin D dimer increased Headache Lethargy Myalgia Myocarditis Palpitations Tachycardia
+725996	31/03/2022	4	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute lymphocytic leukaemia
 726002	31/03/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis
 726242	01/04/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Bradycardia Foaming at mouth Muscle rigidity Presyncope Unresponsive to stimuli
 727103	05/04/2022	9	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Chest pain Cough Pericarditis
@@ -128,6 +128,7 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 727806	06/04/2022	6	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Generalised tonic-clonic seizure SARS-CoV-2 antibody test positive
 728539	08/04/2022	5	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hallucination, visual
 728176	08/04/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain C-reactive protein increased Pericarditis Pyrexia Red blood cell sedimentation rate increased
+728544	08/04/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis Pleuritic pain
 729474	13/04/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Axillary pain Chest pain Electrocardiogram abnormal Electrocardiogram QRS complex prolonged Electrocardiogram ST segment elevation Myopericarditis Pain in extremity Pyrexia Troponin normal
 729471	13/04/2022	9	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cough C-reactive protein increased Electrocardiogram abnormal Pericarditis Pleuritic pain Pyrexia Rhinorrhoea Rhinovirus infection Tachycardia Troponin I
 729592	13/04/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Cough Dyspnoea Myocarditis Pyrexia Tachypnoea Troponin increased
@@ -143,14 +144,14 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 732125	28/04/2022	6	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Decreased appetite Diarrhoea Fatigue Nausea Pallor Pyrexia Syncope Tachycardia Unresponsive to stimuli
 732410	29/04/2022	6	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cellulitis
 733534	05/05/2022	8	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Breakthrough COVID-19 Pneumothorax Status epilepticus
-734187	10/05/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Cardiac arrest
+734187	10/05/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Cardiac arrest Eosinophilia Eosinophilic myocarditis
 734624	11/05/2022	8	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Seizure
 734825	12/05/2022	7	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia
 734853	12/05/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anaphylactic reaction
-734828	12/05/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis
 734826	12/05/2022	8	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Croup infectious
-735122	13/05/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis
+734828	12/05/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis
 735121	13/05/2022	7	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Kawasaki's disease
+735122	13/05/2022	10	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis
 735785	17/05/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypoglycaemia Seizure Vomiting
 735968	18/05/2022	6	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Appendicitis
 735989	18/05/2022	6	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
@@ -171,3 +172,4 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 740007	08/06/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Tachycardia
 741997	22/06/2022	6	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Conjunctivitis Helminthic infection Viral infection Viral rash
 742958	30/06/2022	9	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain upper Cough Loss of consciousness Malaise
+745240	19/07/2022	11	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Activated partial thromboplastin time prolonged Adenotonsillectomy Amplified musculoskeletal pain syndrome Anxiety Arthralgia Chest discomfort Chest pain Complex regional pain syndrome COVID-19 Decreased appetite Dizziness Drug ineffective Dyspnoea Eosinophilia Fatigue Feeling abnormal Fibrin D dimer increased Headache Hyperaesthesia Insomnia Left ventricular hypertrophy Lethargy Nausea Palpitations Polyarthritis Pyrexia Syncope Thrombocytopenia
