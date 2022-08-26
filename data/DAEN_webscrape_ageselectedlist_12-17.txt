@@ -679,3 +679,7 @@ ID	Date	Age	Sex	Suspected medicines	MedDRA reaction terms
 746001	25/07/2022	16	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Injection site reaction Intussusception Lethargy Myalgia Pyrexia Syncope
 746162	25/07/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pericarditis Pleuritic pain
 747946	06/08/2022	16	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Dizziness Facial paralysis Hypotension Presyncope
+748723	12/08/2022	14	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Anaemia Arthralgia Chest discomfort Chest pain Neutropenia
+748721	12/08/2022	16	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Hepatitis Liver function test increased Neutropenia
+748719	12/08/2022	13	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Chest pain Dizziness postural Dyspnoea Electrocardiogram ST segment depression Electrocardiogram T wave inversion Influenza A virus test positive Microcytosis Myocarditis Troponin increased
+748726	12/08/2022	16	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Abdominal pain Chest pain Chills C-reactive protein increased Electrocardiogram ST segment elevation Haematemesis Pericarditis
