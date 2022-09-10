@@ -1,3 +1,5 @@
+Please note that I have been unable to use the webscraper since they updated the TGA website on 31/8/2022. I am still working on getting it going again.
+
 # AccessibleAdverseEventNotification
 Making the DAEN information accessible.
 
