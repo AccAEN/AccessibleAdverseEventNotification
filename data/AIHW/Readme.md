@@ -2,7 +2,9 @@ This page contains files downloaded from the AIHW (Australian Institute of Healt
 
 This is covered by a creative commons licence CC-BY 4.0 https://www.aihw.gov.au/copyright
 
-The .7z file contains the .json files downloaded via the API on 22 Feb 2023.
+The file AIHW_2023-02-22.7zip contains the .json files downloaded via the API on 22 Feb 2023.
 
-The .xlsx file contains data from July 2013 or later due to the limitations of excel.
+The file AIHW_total.tsv.7z contains a tab separated values file and can be opended in a text editor. It can be pasted into excel, but the number of rows in this file exceeds the limits of excel.
+
+The .xlsx file contains data from July 2013 or later due to the limitations of github file uploading.
 
